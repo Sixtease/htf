@@ -1,11 +1,17 @@
 # v.15
 
+> Ješurun ztučněl, rozpučel // 3.os.sg.
+> otyl ses a ztloustl's a zbřichatěl's // 2.os.sg.
+> opustil Boha, který ho učinil, opovrhl skálou své spásy.  // 2/3.os.
+
+paralelismus aaaabb'
+
 Ješurun / Izrael (Kr)
 
 schulg aus - vyrašil (B&R)
 vzpíčil se (Kr)
 
-3. os. -> 2. os.
+druhá věta nejasná osoba
 
 ztučněv, zpíčil se, vytyl, ztlustl, tukem obrostl
 ölfeist ward, schlug aus, erfeistest, ermastest, erwanstest
@@ -14,12 +20,44 @@ feist: špekatý
 mästen: vykrmovat se
 Wanst: panděro
 
+spása / Freiheit
+
+intertext: k 31,20:
+  předvídá se ztučnění, o kterém se tady pěje
+
+pro dary od Boha zapomněl na Boha;
+požehnání si k sobě připojil, přivlastnil, srostl s dary
+ale ty ho tížily a on tím zošklivěl a zlenivěl
+
+poselství: přijetí milosti, následuje rozvoj ve světě (od Boha), a obrácení do světa
+
 # v.16
+
+> popouzeli ho cizími bohy k žárlivosti, // 3.os.pl.
+> ohavnostmi ho dráždili
+
+paralelismus aa'
 
 Kr: cizími Bohy
 B&R: Ungehörigen (Nepatřičnými)
 
+Žárlivost je v bibli ve 25 verších, 11x ve SZ žárlí Bůh a 2 zajímavé výskyty v NZ
+http://www.obohu.cz/bible/index.php?hledat=%C5%BE%C3%A1rliv&k=Dt&styl=B21&kap=32&kde=1
+Ř 10,19; 1K 10,22
+
+antropomorfismus: Bůh s lidskými duševními pochody
+implikuje se výlučný vztah lásky
+
+poselství: růst utrpení na úrovni nesmrtelné duše
+
 # v.17
+
+> obětovali běsům, ne Bohu,
+> bohům, které neznali,
+> novým, kteří povstali nedávno,
+> kterých se *vaši* otcové nebáli // 2.os.pl.
+
+rozvíjení xa1a2a3a4
 
 Obětovali (Kr) / schlachten (prézens, B&R)
 ďáblům (Kr) / Wichten - skřítkům (B&R) / démonům (St)
@@ -28,17 +66,121 @@ Gottrangs? (B&R)
 
 Götter ne v dativu? (B&R)
 
+ONI obětovali bohům, kterých se VAŠI otcové nebáli
+
+intertext: ž 106,37:
+I svoje syny jim obětovali, své dcery ďáblům dávali!
+http://www.obohu.cz/bible/index.php?styl=B21&kap=106&k=Z
+
+běsům => jen Bůh je bůh, ostatní bohové jsou nebozi, běsové
+které neznali? (nicht davon wußten)
+povstali nedávno => Hospodin jediný je věčný; ti jsou dílo rukou lidských
+otcové nebáli => není tradice v uctívání běsů, nepatří to k nim; Hospodin je dědictví
+
 # v.18
 
-zapomenul (Kr) / versäumt (zanedbal, B&R)
+> zanedbal's skálu, která tě zplodila,  // 2.os.sg.
+> zapomněl's na Boha, který tě zrodil
 
-vergaßest? (B&R)
+zapomenul (Kr) / versäumt (zanedbal, zaratil, prošustroval, B&R)
+
+vergaßest? (B&R) asi 2. os. sg. impf.
 
 Gottheit (božství, B&R) / Boha silného (Kr)
 
 stvořitele svého (Kr.) / die mit dir kreißte (která s tebou křičela, B&R)
 
+paralelismus aa
+
+zapomenout na skálu, na jediné pevné, a držet se pomíjivého
+
 # v.19
 
+> Hospodin to viděl   // konec adresování Izraele
+> Odvrhl, rozhněval se na své syny a dcery
+
 Kr: vedlejší věta "to když viděl Hospodin"
-B&R: 
+B&R: Verduß - mrzutost
+
+poselství: spuštění korektivního mechanismu
+
+# v.20
+
+> řekl: // přímá řeč
+> "skryji před nimi svou tvář, uvidím, jak skončí,
+> [neboť jsou] zvrácené pokolení; synové, v nichž není věrnost
+
+skryji
+B&R: chci skrýt
+
+Zukunft (B&R), posledním věcem (Kr.), konec (st)
+
+převrácené (Kr.), voll Umstürze - plné převratů (B&R) obojakou (st)
+
+intertext: k 31,18: že skryje tvář říká už Mojžíšovi před tím
+
+Treue (B&R), věrnost (st.), víry (kr.)
+
+TODO: použití zvráceného
+
+antropomorfismus, úmysl pomsty
+
+jaký má asi účel hodnocení zvrácenosti?
+Zvrácené pokolení? Tzn. už od Abrahama?
+označení za syny bez víry má asi vyvolat odpor a korekci
+
+poselství: puštění se Boha vede k tomu, že je pak Bůh nedosažitelný, skrytý
+
+# v.21
+
+> vzbudili ve mně žárlivost nebohem,
+> popudili mě svými marnostmi.
+> I já v nich vzbudím žárlivost nelidem,
+> popudím je bláznivým národem.
+
+paralelismus aa'bb' abab
+
+B&R: prézens ereifern, verdrießen
+
+B&R: ereifern / ereifern
+Kr: popudili k horlení / popudím k závisti
+
+Kr: národ bláznivý
+B&R: schmählichen Stamm
+
+intertext: nebůh:
+  2Par 13,9: Zdaliž jste nezavrhli kněží Hospodinových, synů Aronových a Levítů, a nenadělali jste sobě kněží, tak jako národové jiných zemí?
+    Kdožkoli přichází, aby posvěceny byly ruce jeho volčetem mladým a sedmi skopci, hned jest knězem těch, jenž nejsou Bohové.
+    Říká bohabojný judský král Abiáš se 400tisícovým vojskem bezbožnému izraelskému králi Jeroboámovi s 800tisícovým vojskem, načež navzdory obklíčení s pomocí Boží Abdiáš vítězí.
+  Iz 37,18-20: Takť jest, Hospodine, žeť jsou pohubili králové Assyrští všecky ty krajiny i zemi jejich,
+    [19] a uvrhli bohy jejich do ohně; nebo nebyli bohové, ale dílo rukou lidských, dřevo a kámen, protože zahladili je.
+    [20] A nyní, Hospodine Bože náš, vysvoboď nás z ruky jeho, aťby poznala všecka království země, že jsi ty Hospodin sám.
+    Modlí Ezechiáš král Judský, když mu asyrský král Senacherib hrozil, že ani jiné národy před ním žádní bohové nezachránili. Načež Bůh nechal zemřít 185,000 asyřanů a odtáhli.
+  Jer 2,11: Zdali změnil který národ bohy, ačkoli nejsou bohové? Lid pak můj změnil slávu svou v věc neužitečnou.
+    říká Bůh skrz Jeremiáše na obvinění Izraele
+  Jer 5,7 ditto
+
+má patrně uvrhnout Boží pomstu do světla spravedlnosti
+oko za oko zub za zub
+
+poselství: korektivní prostředky odpovídají objektům zbožštění
+
+# v.22
+
+> Mým hněvem byl zanícen oheň,
+> plane až do nejhlubšího podsvětí
+> a stráví zemi i její úrodu,
+> spálí základy hor.
+
+paralelismus aabb, *a*a
+
+B&R: Feuer schwellt in meiner Nase
+
+oheň související s emocí
+nástroj ničení; plošného
+patrně se tím odůvodňuje, proč Boží hněv dopadá i na individuálně nevinné
+
+plane až do nejhlubšího podsvětí, a to shora z nebes, takže země není
+na okraji hoření, ale v centru plamene a to kurva silného
+
+poselství: korekce je skrz rozpad světského
