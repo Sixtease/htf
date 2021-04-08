@@ -1,0 +1,29 @@
+koncept: apoštolská posloupnost [cp36] vs. všeobecné kněžství [zv342-347;ag3.s23]
+
+vzdělání:
+  cčsh: HT1 / HT2 mgr. [řds §2 odst1]
+    s dispenzem a 7letou praxí i jiné studium na HTF nebo studium teologie jinde [ditto odst2]
+    formálně se vyžaduje další vzdělávání [ditto odst4k]
+    podle řádu mě měl oslovit spirituál
+    zkouška před komisí pověřenou biskupy
+  řkc: 4 roky seminární formace; 2 roky filozofie; 4 roky teologie [cp236;cic232-264,zvl.250]
+
+předpoklady:
+  řkc: svobodný muž; biřmování; 25+
+  cčsh: 
+  obě: křest; bezúhonnost; zdraví
+
+exkluzivita:
+  cčsh: nesmí být (krom povolených výjimek) po vstupu do církve vysvěcen či uvázán jinde
+
+??? wtf
+Služební  poměr  duchovního  k  CČSH  v  příslu šném státě není pracovním poměrem ve  smyslu obecných  pracovněprávníc h předpisů
+
+světitelé:
+  řkc i cčsh: biskup a další
+
+kategorie:
+  řkc: biskup, kněz, jáhen
+  cčsh: kněz, jáhen
+
+

@@ -1,0 +1,118 @@
+%%% Titulní strana práce a další povinné informační strany
+
+%%% Titulní strana práce
+
+\pagestyle{empty}
+\hypersetup{pageanchor=false}
+
+\begin{center}
+
+{\bf\Large UNIVERZITA KARLOVA}
+
+\vfill
+
+{\Large HUSITSKÁ TEOLOGICKÁ FAKULTA}
+
+\vfill
+
+\centerline{\mbox{\includegraphics[width=66mm]{rc/logo-htf.jpg}}}
+
+\vfill
+
+{\bfseries\NazevPrace}
+
+\vfill
+
+{\bfseries\NazevPraceEN}
+
+\vfill
+
+Seminární práce
+
+\vspace{15mm}
+
+\begin{multicols}{2}
+Vedoucí práce:\\
+\Vedouci\\
+\columnbreak
+Autor:\\
+\AutorPrace\\
+\end{multicols}
+
+\vfill
+
+% Zde doplňte rok
+Praha \RokOdevzdani
+
+\end{center}
+
+\newpage
+
+%%% Strana s čestným prohlášením k disertační práci
+
+\openright
+\hypersetup{pageanchor=true}
+\pagestyle{plain}
+\pagenumbering{roman}
+\vglue 0pt plus 1fill
+
+\noindent
+Prohlašuji, že jsem tuto seminární práci vypracoval samostatně a výhradně
+s~použitím citovaných pramenů, literatury a dalších odborných zdrojů.
+
+\medskip\noindent
+Beru na~vědomí, že se na moji práci vztahují práva a povinnosti vyplývající
+ze zákona č. 121/2000 Sb., autorského zákona v~platném znění, zejména skutečnost,
+že Univerzita Karlova má právo na~uzavření licenční smlouvy o~užití této
+práce jako školního díla podle §60 odst. 1 autorského zákona.
+
+\vspace{10mm}
+
+\hbox{\hbox to 0.5\hsize{%
+%V \hbox to 6em{\dotfill} dne \hbox to 6em{\dotfill}
+V Praze dne \today
+\hss}\hbox to 0.5\hsize{\dotfill\quad}}
+\smallskip
+\hbox{\hbox to 0.5\hsize{}\hbox to 0.5\hsize{\hfil Podpis autora\hfil}}
+
+\vspace{20mm}
+\newpage
+
+%%% Poděkování
+
+\openright
+
+\noindent
+%\Podekovani
+
+\newpage
+
+%%% Povinná informační strana disertační práce
+
+\openright
+
+\vbox to 0.5\vsize{
+\setlength\parindent{0mm}
+\setlength\parskip{5mm}
+
+{\bf Abstrakt:\\}
+\Abstrakt
+
+{\bf Klíčová slova:\\}
+\KlicovaSlova
+
+\vfill
+
+{\bf Abstract:\\}
+\AbstraktEN
+
+{\bf Keywords:\\}
+\KlicovaSlovaEN
+
+\vss}
+
+\newpage
+
+
+
+\openright
