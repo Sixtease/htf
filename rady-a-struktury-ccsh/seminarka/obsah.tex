@@ -18,7 +18,7 @@ nelidskostí sobě vlastní, kdy se pod rouškou z bílé látky ustrašeně chm
 nás všech, je potřeba mít na paměti, co vlastně naše zákony a naše ústava
 dovolují a zaručují a do jaké míry se na to dbá či nikoliv. Kdyby nic jiného,
 může to ukázat, jakou hodnotu dobře sestavená ústava představuje, a s jakou
-vervou ji musíme ochraňovat a jak moc se náš týká.
+vervou ji musíme ochraňovat a jak moc se nás týká.
 
 Vznik, změna a zánik náboženské obce v Církvi československé husitské není na
 rozdíl od segregace očkovaných a neočkovaných nikterak kontroverzním tématem,
@@ -31,9 +31,9 @@ Pojem náboženská obec je protestantským ekvivalentem katolické farnosti.
 V~angličtině se obojímu říká \textit{parish}, což je slovo stejného původu jako
 \textit{farnost}, a sice z~řeckého {$\pi\alpha\rho$\textit{o}$\iota\kappa\iota\alpha$} přes latinské
 \textit{paroecia}, s~původním významem \textit{,,pobývání v~cizí zemi``}.
+Samotný výraz tedy implikuje propojení s~územím.
 Historická souvislost farnosti s~územím je patrná převážně ze středověku, kdy
 namnoze přesně odpovídala panství.
-
 V~době, kdy bylo možno
 člověka mocí přiřadit k~jistému území a též ho přinutit k~účasti na
 bohoslužebném životě v~konkrétním kostele u konkrétního kněze, to bylo zcela
@@ -55,9 +55,62 @@ do které obce se přidat.
 článku 6 jako právnickou osobu tvořenou jejími členy, avšak dodává, že tito mají
 zpravidla bydliště v~územním obvodu obce.
 
+Jsem toho názoru, že pojetí náboženské obce jako skupiny lidí, kteří spolu
+chtějí sdílet náboženský život navzdory geografické vzdálenosti, je dnes
+vitálnější než kdy jindy. Jednak proto, že lidé jsou čím dál mobilnější, jednak
+proto, že vzrůstající individualismus má lidi k~tomu, aby pečlivěji vyhledávali
+jiné lidi, kteří mají podobné smýšlení, a spolčovat se s~ostatními, které si
+sami nevybrali, jim je čím dál více proti mysli. S~tím koreluje i fenomén
+vzrůstající anonymity v~městech, ale i v~obcích, kdy lidé, kteří spolu sousedí
+třeba přes tenkou panelákovou zeď, se vůbec neznají.
+
+Neříkám, že tento jev je žádoucí a že je vhodné ho podporovat, ale je třeba ho
+vzít na vědomí. Ačkoliv by třeba bylo zdravější, aby se k~uctívání Hospodina
+lidé scházeli do svojí lokální obce, nelze to vynutit, pročež koncept obce
+bez vazby k~bydlišti členů považuji za vhodný zvážení. Nabízí se otázka, je-li
+vůbec co zvažovat, vzhledem k~tomu, že takové obce se mohou již teď organicky
+tvořit. Domnívám se, že je, neboť mezi samovolnou tvorbou alokálních obcí a
+záměrným jejich tvořením je přece jenom rozdíl.
+
 \chapter{Porovnání}
 
+Vznik, územní změny a zánik náboženské obce upravuje článek 17 Ústavy a §6 a §14
+-- §17 Organizačního řádu. První pozorování je, že dokumenty na sebe vzájemně
+odkazují. Z~hlediska softwarového architekta je toto pro mne kuriózní zjištění.
+Cyklické závislosti mám zapsané jako fenomén, kterému se je záhodno vyhnout,
+je-li to jen trochu možné, neboť přináší značnou komplexitu do výsledného
+významu a zvyšuje riziko chyb.
 
+Celkově ale Ústava odkazuje k~Organizačnímu řádu jen v~tom smyslu, že upozorňuje
+na jeho přítomnost a platnost. Konkrétně z~něj necituje. Naopak organizační řád
+se hned v~bodě 2 článku 6 odkazuje ke konkrétní pasáži Ústavy a doplňuje ji,
+aniž by její znění v~plnosti citoval. Toto mi opět z~pohledu programátora
+připadá ošidné. V~Organizačním řádu totiž nenacházím explicitní určení verze
+Ústavy, ke které se odkazuje. Když se tedy odvolává na termíny zavedené
+v~určitém bodě Ústavy, vyvstává nebezpečí, že čtenář bude mít v~ruce od doby
+vzniku OŘ novelizovanou Ústavu, kde např. daný pojem bude mít jiný význam nebo
+bude definován v~jiném bodě. Tomuto částečně zabraňuje fakt, že součástí
+Organizačního řádu je hlavička udávající datum poslední úpravy samotného OŘ, ale
+bez explicitního uvedení verze Ústavy je párování nejisté. Samozřejmě že změna
+Ústavy je aktem velmi zřídkavým, ale to na principielním problému nic neubírá,
+obzvlášť když jeho řešení je tak snadné jako uvedení vydání Ústavy, na niž se
+řád odvolává nebo vložení plného znění citace.
+
+Ve věci založení NO Organizační řád blíže určuje podmínky pro platnost, jako
+minimální počet členů výboru, komu a v~jakých lhůtách se podává odvolání atp.
+Stejně tak Organizační řád přidává délku funkčního období orgánů náboženské
+obce. Je zde, konkrétně v~bodě 3 článku 6 OŘ, použit pro mne poněkud matoucí
+výraz ,,první orgány NO``. Co jsou první orgány? Článek 19 Ústavy jmenuje
+,,základní orgány NO`` -- je to totéž? Nebo se myslí základní orgány od první do
+druhé volby jejich členů?
+
+§14 - §17 OŘ mají pozoruhodnou podobu. Splynutí, rozdělení a zánik NO jsou
+pojednány společně v~§17, zatímco §14, §15 a §16 každý tento fakt konstatují,
+každý pro jedno ze jmenovaných témat. V~tomto naopak z~hlediska programátora
+spatřuji dobrou praxi, neboť se zamezuje repetitivnosti, ke které by došlo,
+kdyby se témata pokrývala v~oddělených paragrafech, ale zároveň je pro potřebu
+vyhledávání, strukturování a indexace každému z~témat vyhrazen zvláštní
+paragraf.
 
 \chapter{Závěr}
 
