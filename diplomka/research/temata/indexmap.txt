@@ -1,0 +1,210 @@
+mithraismus {
+  kotouc-E01-a 00:00:00
+}
+pohádka {
+  kotouc-E01-a 00:16:00
+  kotouc-E01-d 01:17:30
+}
+úrovně vědomí / čakramy / fáze cesty {
+  kotouc-E01-c 0
+  kotouc-F01-d    17:29
+  kotouc-H01-a    51:10
+  kotouc-I01-81-82-Plzen-02-b    15:00
+  kotouc-I01-81-82-Plzen-02-d    21:05
+  kotouc-M01-b 01:01:58
+}
+vedení událostmi {
+  kotouc-E01-c    16:06
+}
+příbytek u Boha {
+  kotouc-E01-c    46:17
+}
+aktivní pasivita; rozvíjení života {
+  kotouc-F01-c 01:26:20
+  kotouc-E01-c    53:99
+  kotouc-H01-b        0
+  kotouc-J01-d 01:29:16
+  kotouc-K01-d        0
+  kotouc-K01-d 01:19:20
+  kotouc-O01-c    59:14
+  kotouc-O01-c 01:29:12
+}
+analýza a syntéza {
+  kotouc-E01-c 01:06:13
+}
+vlastní síla {
+  kotouc-E01-d    22:35
+}
+modlitba {
+  kotouc-E01-d    22:35
+  kotouc-H01-c 01:02:05
+  kotouc-I01-81-82-Plzen-02-a    37:00
+  kotouc-J01-d 01:28:28
+  kotouc-K01-c    04:32
+  kotouc-K01-d    13:35
+  kotouc-L01-c 01:19:27
+  kotouc-N01-a 01:19:47
+  kotouc-O01-c    33:17
+  kotouc-O01-c    37:47
+  kotouc-O01-c    46:12
+}
+osud {
+  kotouc-E01-d 01:00:00
+  kotouc-N02-c 01:15:26
+}
+Satan; jáčko; ctnosti {
+  kotouc-K01-b 01:09:27
+  kotouc-E01-d 01:00:00
+  kotouc-F01-c 01:05:10
+  kotouc-H01-c 01:15:55
+  kotouc-J01-c 01:19:00
+  kotouc-J01-d    26:11
+  kotouc-J01-d 01:19:50
+  kotouc-J01-d 01:28:28
+  kotouc-K01-a 01:20:43
+  kotouc-L01-d 01:17:59
+  kotouc-L01-c    47:25
+}
+ráj {
+  kotouc-E01-d 01:08:00
+  kotouc-F01-d    48:11
+  kotouc-K01-c 01:10:58
+}
+první krok {
+  kotouc-F01-a    20:30
+  kotouc-H01-a    16:39
+  kotouc-N01-a    23:11
+}
+chybnost katolicismu {
+  kotouc-F01-a    25:15
+  kotouc-I01-81-82-Plzen-02-b 01:13:20
+}
+sebeodevzdání; celobytostnost {
+  kotouc-F01-b        0
+  kotouc-F01-c        0
+  kotouc-F01-c    52:20
+  kotouc-F01-d    28:49
+  kotouc-H01-b    05:45
+  kotouc-H01-b    30:52
+  kotouc-H01-b    49:37
+  kotouc-I01-81-82-Plzen-02-a        0
+  kotouc-K01-b 01:09:27
+  kotouc-K01-b 01:17:30
+  kotouc-K01-d     1:00
+  kotouc-L01-c    11:53
+  kotouc-N01-b    02:47
+  kotouc-O01-c    35:46
+}
+zákonitost Boží milosti; podmínky {
+  kotouc-F01-b    13:00
+  kotouc-H01-a    16:39
+  kotouc-E01-d 01:22:13
+  kotouc-H01-d    34:13
+  kotouc-J01-d 01:04:15
+  kotouc-L01-a    23:30
+  kotouc-L01-c    49:23
+}
+kontinuální stvoření; trojice {
+  kotouc-F01-b    31:20
+  kotouc-I01-81-82-Plzen-02-a    15:40
+  kotouc-I01-81-82-Plzen-02-d    25:52
+  kotouc-I01-81-82-Plzen-02-a    50:00
+  kotouc-K01-b    33:57
+  kotouc-M01-b 01:15:38
+}
+prostředky a cíl {
+  kotouc-F01-b 01:14:20
+  kotouc-F01-c    42:00
+  kotouc-F01-d    46:20
+  kotouc-H01-b    15:30
+  kotouc-H01-b    49:37
+  kotouc-I01-81-82-Plzen-02-a    23:26
+  kotouc-K01-c    50:50
+}
+krize {
+  kotouc-F01-c 01:01:56
+  kotouc-F01-d    46:20
+  kotouc-H01-c 01:15:55
+}
+příroda {
+  kotouc-F01-d 01:03:00
+  kotouc-I01-81-82-Plzen-02-d    21:05
+}
+apoštolové {
+  kotouc-F01-d 01:06:56
+  kotouc-J01-d 01:19:50
+  kotouc-N01-b    35:26
+}
+symbolika čísel {
+  kotouc-H01-b    02:45
+}
+reinkarnace {
+  kotouc-H01-b    40:27
+  kotouc-L01-b    40:13
+}
+vlastnictví {
+  kotouc-H01-d    38:00
+  kotouc-H01-d    46:20
+  kotouc-K01-a 01:13:13
+  kotouc-N01-b    39:30
+}
+vůle {
+  kotouc-H01-d    41:10
+  kotouc-K01-a    04:32
+  kotouc-K01-b    37:53
+  kotouc-M01-c    26:16
+  kotouc-N01-d 01:24:24
+}
+utrpení, rovnováha {
+  kotouc-I01-81-82-Plzen-02-a    15:40
+  kotouc-I01-81-82-Plzen-02-c    37:20
+  kotouc-L01-a        0
+  kotouc-L01-b    49:04
+  kotouc-N01-b    48:16
+  kotouc-O01-c    29:07
+}
+láska {
+  kotouc-K01-b 01:09:27
+  kotouc-I01-81-82-Plzen-02-a 01:19:37
+  kotouc-I01-81-82-Plzen-02-c    40:15
+  kotouc-J01-c    50:09
+  kotouc-L01-a    05:26
+  kotouc-L01-a    15:26
+  kotouc-M01-c    55:08
+  kotouc-N01-d    12:05
+}
+Ježíšův život; celost a psychologizace Bible {
+  kotouc-J01-d    47:09
+  kotouc-K01-b 01:27:11
+  kotouc-L01-c    41:26
+  kotouc-M01-d    35:49
+  kotouc-L01-c    35:55
+  kotouc-L01-c    47:25
+  kotouc-M01-d 01:25:50
+  kotouc-N01-c        0
+  kotouc-N01-c    36:23
+  kotouc-N01-d    24:18
+}
+panna Maria {
+  kotouc-L01-a    56:17
+  kotouc-L01-c    35:55
+  kotouc-N01-c    31:50
+  kotouc-N01-d    46:29
+  kotouc-N01-d 01:24:24
+}
+smrt na kříži {
+  kotouc-L01-d    52:54
+  kotouc-M01-b 01:15:38
+  kotouc-N01-b    44:54
+}
+otčenáš {
+  kotouc-L01-c    16:29
+}
+věda {
+  kotouc-N01-a    45:12
+}
+posmrtný život {
+  kotouc-N01-b    44:54
+}
+
+# L356 kotouc-P01-a
