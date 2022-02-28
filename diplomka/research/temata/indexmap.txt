@@ -1,10 +1,3 @@
-mithraismus {
-  kotouc-E01-a 00:00:00
-}
-pohádka {
-  kotouc-E01-a 00:16:00
-  kotouc-E01-d 01:17:30
-}
 úrovně vědomí / čakramy / fáze cesty {
   kotouc-E01-c 0
   kotouc-F01-d    17:29
@@ -20,6 +13,8 @@ příbytek u Boha {
   kotouc-E01-c    46:17
 }
 aktivní pasivita; rozvíjení života {
+  kotouc-C01-a    36:55
+  kotouc-U-Zdiar-c 01:28:39
   kotouc-F01-c 01:26:20
   kotouc-E01-c    53:99
   kotouc-H01-b        0
@@ -32,10 +27,17 @@ aktivní pasivita; rozvíjení života {
 analýza a syntéza {
   kotouc-E01-c 01:06:13
 }
-vlastní síla {
-  kotouc-E01-d    22:35
-}
 modlitba {
+  kotouc-C01-a    45:01
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    23:55
+  kotouc-A01-c 01:25:43
+  kotouc-A01-c    33:45
+  kotouc-U-Zdiar-d    11:21
+  kotouc-T01-metoda-d 01:18:41
+  kotouc-T01-metoda-a 01:05:40
+  kotouc-S01-d 01:04:29
+  kotouc-O01-b        0
+  kotouc-O01-d    55:20
   kotouc-E01-d    22:35
   kotouc-H01-c 01:02:05
   kotouc-I01-81-82-Plzen-02-a    37:00
@@ -47,12 +49,16 @@ modlitba {
   kotouc-O01-c    33:17
   kotouc-O01-c    37:47
   kotouc-O01-c    46:12
+  kotouc-P01-c    14:18
 }
 osud {
   kotouc-E01-d 01:00:00
   kotouc-N02-c 01:15:26
 }
 Satan; jáčko; ctnosti {
+  kotouc-A01-c    54:01
+  kotouc-U-Zdiar-b    47:23
+  kotouc-S01-c 01:16:20
   kotouc-K01-b 01:09:27
   kotouc-E01-d 01:00:00
   kotouc-F01-c 01:05:10
@@ -64,6 +70,7 @@ Satan; jáčko; ctnosti {
   kotouc-K01-a 01:20:43
   kotouc-L01-d 01:17:59
   kotouc-L01-c    47:25
+  kotouc-P01-d-1973-kaly    32:44
 }
 ráj {
   kotouc-E01-d 01:08:00
@@ -71,15 +78,29 @@ ráj {
   kotouc-K01-c 01:10:58
 }
 první krok {
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    11:43
+  kotouc-O01-a    53:49
   kotouc-F01-a    20:30
   kotouc-H01-a    16:39
   kotouc-N01-a    23:11
+  kotouc-P01-a    24:36
 }
 chybnost katolicismu {
+  kotouc-A01-c 01:16:51
+  kotouc-U-Zdiar-a    02:12
+  kotouc-T01-metoda-d 01:18:41
+  kotouc-P01-d-1973-kaly    37:58
   kotouc-F01-a    25:15
   kotouc-I01-81-82-Plzen-02-b 01:13:20
+  kotouc-P01-c    37:38
 }
 sebeodevzdání; celobytostnost {
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:00:16
+  kotouc-T01-metoda-d    41:39
+  kotouc-T01-metoda-d    52:57
+  kotouc-T01-metoda-d 01:08:49
+  kotouc-S01-c 01:18:58
+  kotouc-O01-b    51:46
   kotouc-F01-b        0
   kotouc-F01-c        0
   kotouc-F01-c    52:20
@@ -94,8 +115,16 @@ sebeodevzdání; celobytostnost {
   kotouc-L01-c    11:53
   kotouc-N01-b    02:47
   kotouc-O01-c    35:46
+  kotouc-C01-a    35:42
 }
 zákonitost Boží milosti; podmínky {
+  kotouc-C01-a    16:10
+  kotouc-A01-c    46:58
+  kotouc-T01-metoda-c 01:00:13
+  kotouc-T01-metoda-d    08:50
+  kotouc-O01-a 01:01:13
+  kotouc-O01-a    11:30
+  kotouc-O01-d    42:52
   kotouc-F01-b    13:00
   kotouc-H01-a    16:39
   kotouc-E01-d 01:22:13
@@ -105,6 +134,7 @@ zákonitost Boží milosti; podmínky {
   kotouc-L01-c    49:23
 }
 kontinuální stvoření; trojice {
+  kotouc-T01-metoda-d 01:23:49
   kotouc-F01-b    31:20
   kotouc-I01-81-82-Plzen-02-a    15:40
   kotouc-I01-81-82-Plzen-02-d    25:52
@@ -125,12 +155,16 @@ krize {
   kotouc-F01-c 01:01:56
   kotouc-F01-d    46:20
   kotouc-H01-c 01:15:55
+  kotouc-P01-a    17:52
 }
 příroda {
+  kotouc-U-Zdiar-c    55:45
   kotouc-F01-d 01:03:00
   kotouc-I01-81-82-Plzen-02-d    21:05
 }
 apoštolové {
+  kotouc-U-Zdiar-b    04:23
+  kotouc-U-Zdiar-b    15:58 2
   kotouc-F01-d 01:06:56
   kotouc-J01-d 01:19:50
   kotouc-N01-b    35:26
@@ -139,16 +173,30 @@ symbolika čísel {
   kotouc-H01-b    02:45
 }
 reinkarnace {
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    05:12
+  kotouc-A01-c 01:14:02
+  kotouc-A01-c    46:58
   kotouc-H01-b    40:27
   kotouc-L01-b    40:13
+  kotouc-P01-c 01:01:40
 }
 vlastnictví {
+  kotouc-A01-c    39:28
+  kotouc-A01-c    09:35
+  kotouc-U-Zdiar-b 01:03:05
+  kotouc-U-Zdiar-c        0
   kotouc-H01-d    38:00
   kotouc-H01-d    46:20
   kotouc-K01-a 01:13:13
   kotouc-N01-b    39:30
 }
 vůle {
+  kotouc-C01-a        0
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:03:56
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    25:19
+  kotouc-A01-c    23:00
+  kotouc-U-Zdiar-a 01:25:09
+  kotouc-O01-d    55:20
   kotouc-H01-d    41:10
   kotouc-K01-a    04:32
   kotouc-K01-b    37:53
@@ -156,14 +204,30 @@ vůle {
   kotouc-N01-d 01:24:24
 }
 utrpení, rovnováha {
+  kotouc-C01-a    12:55 2
+  kotouc-A01-c 01:09:32
+  kotouc-A01-c    11:36
+  kotouc-A01-a    31:49
+  kotouc-T01-metoda-b 01:07:45
+  kotouc-T01-metoda-a    52:03
+  kotouc-R01-c-1974    33:01
   kotouc-I01-81-82-Plzen-02-a    15:40
   kotouc-I01-81-82-Plzen-02-c    37:20
   kotouc-L01-a        0
   kotouc-L01-b    49:04
   kotouc-N01-b    48:16
   kotouc-O01-c    29:07
+  kotouc-P01-a    06:33
 }
 láska {
+  kotouc-A01-c 01:25:43
+  kotouc-A01-c    09:58
+  kotouc-U-Zdiar-d 01:05:38 3
+  kotouc-A01-a    53:55
+  kotouc-U-Zdiar-b    31:14
+  kotouc-U-Zdiar-b    47:23
+  kotouc-T01-metoda-a 01:06:43
+  kotouc-R01-c-1974 01:10:10
   kotouc-K01-b 01:09:27
   kotouc-I01-81-82-Plzen-02-a 01:19:37
   kotouc-I01-81-82-Plzen-02-c    40:15
@@ -174,6 +238,8 @@ láska {
   kotouc-N01-d    12:05
 }
 Ježíšův život; celost a psychologizace Bible {
+  kotouc-T01-metoda-a    21:49
+  kotouc-T01-metoda-a    39:31
   kotouc-J01-d    47:09
   kotouc-K01-b 01:27:11
   kotouc-L01-c    41:26
@@ -184,8 +250,13 @@ Ježíšův život; celost a psychologizace Bible {
   kotouc-N01-c        0
   kotouc-N01-c    36:23
   kotouc-N01-d    24:18
+  kotouc-P01-a    12:46
 }
 panna Maria {
+  kotouc-U-Zdiar-a    41:17 5
+  kotouc-T01-metoda-b    52:24
+  kotouc-O01-a 01:07:24
+  kotouc-O01-d    34:52
   kotouc-L01-a    56:17
   kotouc-L01-c    35:55
   kotouc-N01-c    31:50
@@ -193,18 +264,31 @@ panna Maria {
   kotouc-N01-d 01:24:24
 }
 smrt na kříži {
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a        0
+  kotouc-U-Zdiar-d 01:04:00
+  kotouc-T01-metoda-b 01:11:39
+  kotouc-T01-metoda-c        0
+  kotouc-O01-a        0
+  kotouc-P01-d-1973-kaly    52:02
   kotouc-L01-d    52:54
   kotouc-M01-b 01:15:38
   kotouc-N01-b    44:54
-}
-otčenáš {
-  kotouc-L01-c    16:29
+  kotouc-P01-b-1973-kaly    33:09
 }
 věda {
   kotouc-N01-a    45:12
 }
 posmrtný život {
+  kotouc-O01-b 01:02:39
   kotouc-N01-b    44:54
 }
+extaze {
+  kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:26:50
+  kotouc-A01-c    17:32
+  kotouc-U-Zdiar-a        0
+}
+sebezápor {
+  kotouc-C01-a    36:55
+}
 
-# L356 kotouc-P01-a
+# 1075
