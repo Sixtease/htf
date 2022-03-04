@@ -13,6 +13,7 @@ příbytek u Boha {
   kotouc-E01-c    46:17
 }
 aktivní pasivita; rozvíjení života {
+  kotouc-C01-a    56:14
   kotouc-C01-a    36:55
   kotouc-U-Zdiar-c 01:28:39
   kotouc-F01-c 01:26:20
@@ -56,6 +57,7 @@ osud {
   kotouc-N02-c 01:15:26
 }
 Satan; jáčko; ctnosti {
+  kotouc-C01-a    49:39
   kotouc-A01-c    54:01
   kotouc-U-Zdiar-b    47:23
   kotouc-S01-c 01:16:20
@@ -95,6 +97,7 @@ chybnost katolicismu {
   kotouc-P01-c    37:38
 }
 sebeodevzdání; celobytostnost {
+  kotouc-C01-a    51:30
   kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:00:16
   kotouc-T01-metoda-d    41:39
   kotouc-T01-metoda-d    52:57
@@ -191,6 +194,7 @@ vlastnictví {
   kotouc-N01-b    39:30
 }
 vůle {
+  kotouc-C01-a    57:54
   kotouc-C01-a        0
   kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:03:56
   kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a    25:19
@@ -291,4 +295,4 @@ sebezápor {
   kotouc-C01-a    36:55
 }
 
-# 1075
+# 1087
