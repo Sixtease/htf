@@ -13,6 +13,9 @@ příbytek u Boha {
   kotouc-E01-c    46:17
 }
 aktivní pasivita; rozvíjení života {
+  kotouc-D01-c 01:20:54
+  kotouc-D01-b    13:42 2
+  kotouc-D01-a    50:34
   kotouc-C01-a    56:14
   kotouc-C01-a    36:55
   kotouc-U-Zdiar-c 01:28:39
@@ -29,6 +32,9 @@ analýza a syntéza {
   kotouc-E01-c 01:06:13
 }
 modlitba {
+  kotouc-D01-c 01:24:33
+  kotouc-D01-c 01:18:01
+  kotouc-D01-c    04:29
   kotouc-C01-d    33:05
   kotouc-C01-c    02:24 2
   kotouc-C01-a    45:01
@@ -83,6 +89,8 @@ ráj {
   kotouc-K01-c 01:10:58
 }
 první krok {
+  kotouc-D01-b    55:36
+  kotouc-D01-b    08:08
   kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b    11:43
   kotouc-O01-a    53:49
   kotouc-F01-a    20:30
@@ -143,6 +151,7 @@ zákonitost Boží milosti; podmínky {
   kotouc-L01-c    49:23
 }
 kontinuální stvoření; trojice {
+  kotouc-D01-d 01:00:15
   kotouc-T01-metoda-d 01:23:49
   kotouc-F01-b    31:20
   kotouc-I01-81-82-Plzen-02-a    15:40
@@ -161,7 +170,8 @@ prostředky a cíl {
   kotouc-K01-c    50:50
 }
 krize {
-  kotouc-D01-a
+  kotouc-D01-c 01:29:54
+  kotouc-D01-a        0
   kotouc-C01-d    21:37 2
   kotouc-F01-c 01:01:56
   kotouc-F01-d    46:20
@@ -174,6 +184,7 @@ příroda {
   kotouc-I01-81-82-Plzen-02-d    21:05
 }
 apoštolové {
+  kotouc-D01-b    50:00
   kotouc-C01-b 01:21:07
   kotouc-U-Zdiar-b    04:23
   kotouc-U-Zdiar-b    15:58 2
@@ -217,6 +228,7 @@ vůle {
   kotouc-N01-d 01:24:24
 }
 utrpení, rovnováha {
+  kotouc-D01-b    13:08
   kotouc-C01-a    12:55 2
   kotouc-A01-c 01:09:32
   kotouc-A01-c    11:36
@@ -233,6 +245,8 @@ utrpení, rovnováha {
   kotouc-P01-a    06:33
 }
 láska {
+  kotouc-D01-c    05:31
+  kotouc-D01-b    17:36
   kotouc-C01-b 01:26:59
   kotouc-C01-b    12:58 2
   kotouc-A01-c 01:25:43
@@ -270,6 +284,7 @@ Ježíšův život; celost a psychologizace Bible {
   kotouc-P01-a    12:46
 }
 panna Maria {
+  kotouc-D01-a 01:00:30
   kotouc-U-Zdiar-a    41:17 5
   kotouc-T01-metoda-b    52:24
   kotouc-O01-a 01:07:24
@@ -296,6 +311,7 @@ věda {
   kotouc-N01-a    45:12
 }
 posmrtný život {
+  kotouc-D01-d    01:00 2
   kotouc-O01-b 01:02:39
   kotouc-N01-b    44:54
 }
@@ -309,4 +325,4 @@ sebezápor {
   kotouc-C01-a    36:55
 }
 
-# 1199
+# 1345
