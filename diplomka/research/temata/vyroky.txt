@@ -1,0 +1,38 @@
+[
+  {
+    "stem": "kotouc-I01-d",
+    "date": "< 1974",
+    "quotes": [
+      "Ve skutečnosti každý člověk na všechno hledí aktivně, i na mystickou modlitbu, i na modlitbu, která má ho spojit s Bohem a dopadá to potom příšerně. Podívejte se na všechny žáky Weinfurtrovy, kdy oni říkali nějaká písmenová cvičení, já proti tomu nic nemám, ale mysleli si že tímhletím dobydou království Boží. Jo, království Boží násilí trpí, násilím je dobýváno, ale ne dobyto. Dobýváno. A oni u toho dobývání zůstali, museli zůstat protože nikdo jim neřekl, že modlitba se musí stávat postupně stále více trpnou. Trpnější. Pasivní. A jestliže tento požadavek není splněn, tak nemůže vést ke spojení, vědomému spojení s Bohem."
+    ]
+  },
+  {
+    "stem": "kotouc-D01-b",
+    "date": "< 1974",
+    "quotes": [
+      "My totiž tady v tomto životě cokoliv dobýváme, tak vždycky to dobýváme nějakou aktivitou, že totiž si to přejeme, jdeme za tím, dosahujeme to, případně nedosahujeme. A jakou to činnost? Jak ji máme klasifikovat takovou činnost? To je vlastně pokračování v tvůrčí činnosti Boží. My tady rozmnožujeme statky, které jsou nám od Boha dány, a dále prostě pro ně žijeme a dále jdeme do stvořeného, do zmnožného. Jde ta cesta z jednoduchosti do množství, do stále větší šíře, ano? To je, to je tenhleten, ta aktivita. Tímto způsobem když člověk přistupuje i k duchovním úkolům, to znamená k tomu aby se stal nezrozeným věčným to znamená nezrozeným věčným nestvořeným tak když tímto způsobem postupuje tak nikdy se jim nestane i když se sebe pilně snaží protože mu chybí tahleta zpětná vazba ta pasivita on nejenom ten aktivní způsob a ten vlastně jde úplně opačným směrem než ten než ta trpnost mystická která je zapotřebí stejnou měrou jako ta aktivita a kterou jedinou se můžete dostat nazpátek"
+    ]
+  },
+  {
+    "stem": "80-11A",
+    "date": 1980,
+    "quotes": [
+      "Musím se snažit o to, milovat z celého srdce a tak dále, jak je to tam všechno řečeno, ale my jsme si už řekli, že pochopit, kde jsou meze toho a kde a jak máme Bohu dát příležitost, aby on nám ukázal svou lásku, to že už není co se dá vyjádřit tím slovem, nýbrž to se dá vyjádřit jedině příkladem Ježíšovým. Celým jeho životem."
+    ]
+  },
+  {
+    "stem": "85-25A-10.sub.js:34",
+    "date": 1985,
+    "quotes": [
+      "Láska má dvě stránky. Aktivní a trpnou ano? To jsem říkal všechny čtyři dni. Ne že je to jenom trpná stránka, ale že trpná stránka je dovršení oné aktivní stránky lásky. A kdyby to nebylo dovršení aktivní stránky, nebylo by co dovršovat a bylo by zbytečné ta negace nebo ta trpnost v lásce. By byla bezvýsledná, to by nikam nevedlo."
+    ]
+  },
+  {
+    "stem": "prevzate-kotouc-88-03",
+    "date": 1988,
+    "quotes": [
+      "Vznik i té nejmenší metafyzické zkušenosti je založen na trpnosti.",
+      "Trpnost musí být musí mít protiváhu, že ji dovedete uplatit, aktivně uplatnit. Ježíš Kristus to doved aktivně uplatnit, že byl poddán trpně třebas své rodině a tak dále. On, který měl tu obrovskou moudrou za sebou, že a v sobě, který... Takže on to potom už začal nám ukazovat jako míchanou trpnost s aktivitou. A to je správně pojatý život. To má být tak namícháno, že když je zapotřebí být aktivní, tak musím být aktivní až do dřeně kosti. Když je třeba být trpný, tak musím být trpný zase tam."
+    ]
+  }
+]
