@@ -14,10 +14,24 @@
     ]
   },
   {
+    "stem": "kotouc-77-brezen01-b",
+    "date": 1977,
+    "quotes": [
+      "Trpná stránka, to je stránka koncentrační. Koncentrace není činnost v tom běžném slova smyslu, k jaké já vás tady navádím v těchto algoritmech. To není ještě koncentrace vůbec. Todleto, co já- k čemu vás já tady navádím to je nanejvýš meditace, jo? A z ní pocházející čin, čin prostý anebo čin láskyplný, ano? Ale koncentrace mystická, ne soustředění pouhé, konaná za účelem spojovacím, mající tento cíl, to je vyhraněně trpná záležitost. To znamená, já musím se jenom tak dlouho koncentrovat, smím lépe řečeno se tak dlouho koncentrovat, dokud zůstávám trpný, ale ne civějící."
+    ]
+  },
+  {
     "stem": "80-11A",
     "date": 1980,
     "quotes": [
       "Musím se snažit o to, milovat z celého srdce a tak dále, jak je to tam všechno řečeno, ale my jsme si už řekli, že pochopit, kde jsou meze toho a kde a jak máme Bohu dát příležitost, aby on nám ukázal svou lásku, to že už není co se dá vyjádřit tím slovem, nýbrž to se dá vyjádřit jedině příkladem Ježíšovým. Celým jeho životem."
+    ]
+  },
+  {
+    "stem": "",
+    "date": 1983,
+    "quotes": [
+      "Už to narození Ježíše Krista vysvětluje značnou míru trpnosti, ale v které oblasti, to je mi jasné: Ne všude. Například jakápak je to trpnost, když utečou do Egypta? To je velká činnost, ale trpnost je v tom, že poslouchali. Vy musíte přesně vědět, že to vedle sebe má existovat a že to má své místo, to i ono."
     ]
   },
   {
@@ -33,6 +47,14 @@
     "quotes": [
       "Vznik i té nejmenší metafyzické zkušenosti je založen na trpnosti.",
       "Trpnost musí být musí mít protiváhu, že ji dovedete uplatit, aktivně uplatnit. Ježíš Kristus to doved aktivně uplatnit, že byl poddán trpně třebas své rodině a tak dále. On, který měl tu obrovskou moudrou za sebou, že a v sobě, který... Takže on to potom už začal nám ukazovat jako míchanou trpnost s aktivitou. A to je správně pojatý život. To má být tak namícháno, že když je zapotřebí být aktivní, tak musím být aktivní až do dřeně kosti. Když je třeba být trpný, tak musím být trpný zase tam."
+    ]
+  },
+  {
+    "stem": "91-11B",
+    date: 1991,
+    "quotes": [
+      "Kdo neumí být trpný, tak není zasvěcencem, a kdo se bojí trpnosti, tak neví, že se bojí něčeho, čeho by se neměl bát. To mu umožňuje stát se zasvěcencem a být spojen vědomě s Bohem.",
+      "Ani Ježíš Kristus neudělal první zázrak, a kdyby byl neudělal první zázrak za pomoci Panny Marie, tak neudělal ani další zázraky. Začal to dělat jenom proto, že ho Panna Maria požádala. Kde pak jsme s tou méněcennosti ženy? Prosím vás, odpovězte mně na to. A protože tomu tak, že ona je cennější a v té trpnosti, která je jí vrozená, je veliká přednost a říkáme jí, té přednosti, metafyzická zkušenost, která se bez trpnosti, bez stavu trpnosti neobejde, tak my mužové musíme také tuto trpnost zvládnout. My ji musíme umět navodit, stejně jako ji umí snáze navodit žena."
     ]
   }
 ]

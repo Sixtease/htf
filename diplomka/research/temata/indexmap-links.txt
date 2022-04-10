@@ -1,0 +1,328 @@
+úrovně vědomí / čakramy / fáze cesty {
+  http://radio.makon.cz/zaznam/kotouc-E01-c#ts=0
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=17:29
+  http://radio.makon.cz/zaznam/kotouc-H01-a#ts=51:10
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-b#ts=15:00
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-d#ts=21:05
+  http://radio.makon.cz/zaznam/kotouc-M01-b#ts=01:01:58
+}
+vedení událostmi {
+  http://radio.makon.cz/zaznam/kotouc-E01-c#ts=16:06
+}
+příbytek u Boha {
+  http://radio.makon.cz/zaznam/kotouc-E01-c#ts=46:17
+}
+aktivní pasivita; rozvíjení života {
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=01:20:54
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=13:42 2
+  http://radio.makon.cz/zaznam/kotouc-D01-a#ts=50:34
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=56:14
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=36:55
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-c#ts=01:28:39
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=01:26:20
+  http://radio.makon.cz/zaznam/kotouc-E01-c#ts=53:99
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=0
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:29:16
+  http://radio.makon.cz/zaznam/kotouc-K01-d#ts=0
+  http://radio.makon.cz/zaznam/kotouc-K01-d#ts=01:19:20
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=59:14
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=01:29:12
+}
+analýza a syntéza {
+  http://radio.makon.cz/zaznam/kotouc-E01-c#ts=01:06:13
+}
+modlitba {
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=01:24:33
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=01:18:01
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=04:29
+  http://radio.makon.cz/zaznam/kotouc-C01-d#ts=33:05
+  http://radio.makon.cz/zaznam/kotouc-C01-c#ts=02:24 2
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=45:01
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a#ts=23:55
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=01:25:43
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=33:45
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-d#ts=11:21
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=01:18:41
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-a#ts=01:05:40
+  http://radio.makon.cz/zaznam/kotouc-S01-d#ts=01:04:29
+  http://radio.makon.cz/zaznam/kotouc-O01-b#ts=0
+  http://radio.makon.cz/zaznam/kotouc-O01-d#ts=55:20
+  http://radio.makon.cz/zaznam/kotouc-E01-d#ts=22:35
+  http://radio.makon.cz/zaznam/kotouc-H01-c#ts=01:02:05
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=37:00
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:28:28
+  http://radio.makon.cz/zaznam/kotouc-K01-c#ts=04:32
+  http://radio.makon.cz/zaznam/kotouc-K01-d#ts=13:35
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=01:19:27
+  http://radio.makon.cz/zaznam/kotouc-N01-a#ts=01:19:47
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=33:17
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=37:47
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=46:12
+  http://radio.makon.cz/zaznam/kotouc-P01-c#ts=14:18
+}
+osud {
+  http://radio.makon.cz/zaznam/kotouc-E01-d#ts=01:00:00
+  http://radio.makon.cz/zaznam/kotouc-N02-c#ts=01:15:26
+}
+Satan; jáčko; ctnosti {
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=01:04:22
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=49:39
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=54:01
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=47:23
+  http://radio.makon.cz/zaznam/kotouc-S01-c#ts=01:16:20
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=01:09:27
+  http://radio.makon.cz/zaznam/kotouc-E01-d#ts=01:00:00
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=01:05:10
+  http://radio.makon.cz/zaznam/kotouc-H01-c#ts=01:15:55
+  http://radio.makon.cz/zaznam/kotouc-J01-c#ts=01:19:00
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=26:11
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:19:50
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:28:28
+  http://radio.makon.cz/zaznam/kotouc-K01-a#ts=01:20:43
+  http://radio.makon.cz/zaznam/kotouc-L01-d#ts=01:17:59
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=47:25
+  http://radio.makon.cz/zaznam/kotouc-P01-d-1973-kaly#ts=32:44
+}
+ráj {
+  http://radio.makon.cz/zaznam/kotouc-E01-d#ts=01:08:00
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=48:11
+  http://radio.makon.cz/zaznam/kotouc-K01-c#ts=01:10:58
+}
+první krok {
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=55:36
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=08:08
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b#ts=11:43
+  http://radio.makon.cz/zaznam/kotouc-O01-a#ts=53:49
+  http://radio.makon.cz/zaznam/kotouc-F01-a#ts=20:30
+  http://radio.makon.cz/zaznam/kotouc-H01-a#ts=16:39
+  http://radio.makon.cz/zaznam/kotouc-N01-a#ts=23:11
+  http://radio.makon.cz/zaznam/kotouc-P01-a#ts=24:36
+}
+chybnost katolicismu {
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=01:24:51
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=01:16:51
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-a#ts=02:12
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=01:18:41
+  http://radio.makon.cz/zaznam/kotouc-P01-d-1973-kaly#ts=37:58
+  http://radio.makon.cz/zaznam/kotouc-F01-a#ts=25:15
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-b#ts=01:13:20
+  http://radio.makon.cz/zaznam/kotouc-P01-c#ts=37:38
+}
+sebeodevzdání; celobytostnost {
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=01:07:56
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=51:30
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b#ts=01:00:16
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=41:39
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=52:57
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=01:08:49
+  http://radio.makon.cz/zaznam/kotouc-S01-c#ts=01:18:58
+  http://radio.makon.cz/zaznam/kotouc-O01-b#ts=51:46
+  http://radio.makon.cz/zaznam/kotouc-F01-b#ts=0
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=0
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=52:20
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=28:49
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=05:45
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=30:52
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=49:37
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=01:09:27
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=01:17:30
+  http://radio.makon.cz/zaznam/kotouc-K01-d#ts=1:00
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=11:53
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=02:47
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=35:46
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=35:42
+}
+zákonitost Boží milosti; podmínky {
+  http://radio.makon.cz/zaznam/kotouc-C01-c#ts=20:21
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=16:10
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=46:58
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-c#ts=01:00:13
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=08:50
+  http://radio.makon.cz/zaznam/kotouc-O01-a#ts=01:01:13
+  http://radio.makon.cz/zaznam/kotouc-O01-a#ts=11:30
+  http://radio.makon.cz/zaznam/kotouc-O01-d#ts=42:52
+  http://radio.makon.cz/zaznam/kotouc-F01-b#ts=13:00
+  http://radio.makon.cz/zaznam/kotouc-H01-a#ts=16:39
+  http://radio.makon.cz/zaznam/kotouc-E01-d#ts=01:22:13
+  http://radio.makon.cz/zaznam/kotouc-H01-d#ts=34:13
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:04:15
+  http://radio.makon.cz/zaznam/kotouc-L01-a#ts=23:30
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=49:23
+}
+kontinuální stvoření; trojice {
+  http://radio.makon.cz/zaznam/kotouc-D01-d#ts=01:00:15
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-d#ts=01:23:49
+  http://radio.makon.cz/zaznam/kotouc-F01-b#ts=31:20
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=15:40
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-d#ts=25:52
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=50:00
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=33:57
+  http://radio.makon.cz/zaznam/kotouc-M01-b#ts=01:15:38
+}
+prostředky a cíl {
+  http://radio.makon.cz/zaznam/kotouc-F01-b#ts=01:14:20
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=42:00
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=46:20
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=15:30
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=49:37
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=23:26
+  http://radio.makon.cz/zaznam/kotouc-K01-c#ts=50:50
+}
+krize {
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=01:29:54
+  http://radio.makon.cz/zaznam/kotouc-D01-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-C01-d#ts=21:37 2
+  http://radio.makon.cz/zaznam/kotouc-F01-c#ts=01:01:56
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=46:20
+  http://radio.makon.cz/zaznam/kotouc-H01-c#ts=01:15:55
+  http://radio.makon.cz/zaznam/kotouc-P01-a#ts=17:52
+}
+příroda {
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-c#ts=55:45
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=01:03:00
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-d#ts=21:05
+}
+apoštolové {
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=50:00
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=01:21:07
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=04:23
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=15:58 2
+  http://radio.makon.cz/zaznam/kotouc-F01-d#ts=01:06:56
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=01:19:50
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=35:26
+}
+symbolika čísel {
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=02:45
+}
+reinkarnace {
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a#ts=05:12
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=01:14:02
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=46:58
+  http://radio.makon.cz/zaznam/kotouc-H01-b#ts=40:27
+  http://radio.makon.cz/zaznam/kotouc-L01-b#ts=40:13
+  http://radio.makon.cz/zaznam/kotouc-P01-c#ts=01:01:40
+}
+vlastnictví {
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=39:28
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=09:35
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=01:03:05
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-c#ts=0
+  http://radio.makon.cz/zaznam/kotouc-H01-d#ts=38:00
+  http://radio.makon.cz/zaznam/kotouc-H01-d#ts=46:20
+  http://radio.makon.cz/zaznam/kotouc-K01-a#ts=01:13:13
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=39:30
+}
+vůle {
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=57:54
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b#ts=01:03:56
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a#ts=25:19
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=23:00
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-a#ts=01:25:09
+  http://radio.makon.cz/zaznam/kotouc-O01-d#ts=55:20
+  http://radio.makon.cz/zaznam/kotouc-H01-d#ts=41:10
+  http://radio.makon.cz/zaznam/kotouc-K01-a#ts=04:32
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=37:53
+  http://radio.makon.cz/zaznam/kotouc-M01-c#ts=26:16
+  http://radio.makon.cz/zaznam/kotouc-N01-d#ts=01:24:24
+}
+utrpení, rovnováha {
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=13:08
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=12:55 2
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=01:09:32
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=11:36
+  http://radio.makon.cz/zaznam/kotouc-A01-a#ts=31:49
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-b#ts=01:07:45
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-a#ts=52:03
+  http://radio.makon.cz/zaznam/kotouc-R01-c-1974#ts=33:01
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=15:40
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-c#ts=37:20
+  http://radio.makon.cz/zaznam/kotouc-L01-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-L01-b#ts=49:04
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=48:16
+  http://radio.makon.cz/zaznam/kotouc-O01-c#ts=29:07
+  http://radio.makon.cz/zaznam/kotouc-P01-a#ts=06:33
+}
+láska {
+  http://radio.makon.cz/zaznam/kotouc-D01-c#ts=05:31
+  http://radio.makon.cz/zaznam/kotouc-D01-b#ts=17:36
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=01:26:59
+  http://radio.makon.cz/zaznam/kotouc-C01-b#ts=12:58 2
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=01:25:43
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=09:58
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-d#ts=01:05:38 3
+  http://radio.makon.cz/zaznam/kotouc-A01-a#ts=53:55
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=31:14
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-b#ts=47:23
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-a#ts=01:06:43
+  http://radio.makon.cz/zaznam/kotouc-R01-c-1974#ts=01:10:10
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=01:09:27
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-a#ts=01:19:37
+  http://radio.makon.cz/zaznam/kotouc-I01-81-82-Plzen-02-c#ts=40:15
+  http://radio.makon.cz/zaznam/kotouc-J01-c#ts=50:09
+  http://radio.makon.cz/zaznam/kotouc-L01-a#ts=05:26
+  http://radio.makon.cz/zaznam/kotouc-L01-a#ts=15:26
+  http://radio.makon.cz/zaznam/kotouc-M01-c#ts=55:08
+  http://radio.makon.cz/zaznam/kotouc-N01-d#ts=12:05
+}
+Ježíšův život; celost a psychologizace Bible {
+  http://radio.makon.cz/zaznam/kotouc-C01-d#ts=01:21:20
+  http://radio.makon.cz/zaznam/kotouc-C01-c#ts=14:52
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-a#ts=21:49
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-a#ts=39:31
+  http://radio.makon.cz/zaznam/kotouc-J01-d#ts=47:09
+  http://radio.makon.cz/zaznam/kotouc-K01-b#ts=01:27:11
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=41:26
+  http://radio.makon.cz/zaznam/kotouc-M01-d#ts=35:49
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=35:55
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=47:25
+  http://radio.makon.cz/zaznam/kotouc-M01-d#ts=01:25:50
+  http://radio.makon.cz/zaznam/kotouc-N01-c#ts=0
+  http://radio.makon.cz/zaznam/kotouc-N01-c#ts=36:23
+  http://radio.makon.cz/zaznam/kotouc-N01-d#ts=24:18
+  http://radio.makon.cz/zaznam/kotouc-P01-a#ts=12:46
+}
+panna Maria {
+  http://radio.makon.cz/zaznam/kotouc-D01-a#ts=01:00:30
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-a#ts=41:17 5
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-b#ts=52:24
+  http://radio.makon.cz/zaznam/kotouc-O01-a#ts=01:07:24
+  http://radio.makon.cz/zaznam/kotouc-O01-d#ts=34:52
+  http://radio.makon.cz/zaznam/kotouc-L01-a#ts=56:17
+  http://radio.makon.cz/zaznam/kotouc-L01-c#ts=35:55
+  http://radio.makon.cz/zaznam/kotouc-N01-c#ts=31:50
+  http://radio.makon.cz/zaznam/kotouc-N01-d#ts=46:29
+  http://radio.makon.cz/zaznam/kotouc-N01-d#ts=01:24:24
+}
+smrt na kříži {
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-d#ts=01:04:00
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-b#ts=01:11:39
+  http://radio.makon.cz/zaznam/kotouc-T01-metoda-c#ts=0
+  http://radio.makon.cz/zaznam/kotouc-O01-a#ts=0
+  http://radio.makon.cz/zaznam/kotouc-P01-d-1973-kaly#ts=52:02
+  http://radio.makon.cz/zaznam/kotouc-L01-d#ts=52:54
+  http://radio.makon.cz/zaznam/kotouc-M01-b#ts=01:15:38
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=44:54
+  http://radio.makon.cz/zaznam/kotouc-P01-b-1973-kaly#ts=33:09
+}
+věda {
+  http://radio.makon.cz/zaznam/kotouc-N01-a#ts=45:12
+}
+posmrtný život {
+  http://radio.makon.cz/zaznam/kotouc-D01-d#ts=01:00 2
+  http://radio.makon.cz/zaznam/kotouc-O01-b#ts=01:02:39
+  http://radio.makon.cz/zaznam/kotouc-N01-b#ts=44:54
+}
+extaze {
+  http://radio.makon.cz/zaznam/kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b#ts=01:26:50
+  http://radio.makon.cz/zaznam/kotouc-A01-c#ts=17:32
+  http://radio.makon.cz/zaznam/kotouc-U-Zdiar-a#ts=0
+}
+sebezápor {
+  http://radio.makon.cz/zaznam/kotouc-C01-d#ts=09:42
+  http://radio.makon.cz/zaznam/kotouc-C01-a#ts=36:55
+}
+
+# 1345

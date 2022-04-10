@@ -214,6 +214,7 @@ vlastnictví {
   kotouc-N01-b    39:30
 }
 vůle {
+  kotouc-77-brezen01-a    47:20
   kotouc-C01-a    57:54
   kotouc-C01-a        0
   kotouc-B01-70-08-29-Zlin-moderni_tendence_v_oblasti_poznani-b 01:03:56
@@ -245,6 +246,7 @@ utrpení, rovnováha {
   kotouc-P01-a    06:33
 }
 láska {
+  kotouc-77-brezen01-a    59:09
   kotouc-D01-c    05:31
   kotouc-D01-b    17:36
   kotouc-C01-b 01:26:59
