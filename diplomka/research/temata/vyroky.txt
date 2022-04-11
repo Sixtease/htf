@@ -1,60 +1,87 @@
-[
-  {
-    "stem": "kotouc-I01-d",
-    "date": "< 1974",
-    "quotes": [
-      "Ve skutečnosti každý člověk na všechno hledí aktivně, i na mystickou modlitbu, i na modlitbu, která má ho spojit s Bohem a dopadá to potom příšerně. Podívejte se na všechny žáky Weinfurtrovy, kdy oni říkali nějaká písmenová cvičení, já proti tomu nic nemám, ale mysleli si že tímhletím dobydou království Boží. Jo, království Boží násilí trpí, násilím je dobýváno, ale ne dobyto. Dobýváno. A oni u toho dobývání zůstali, museli zůstat protože nikdo jim neřekl, že modlitba se musí stávat postupně stále více trpnou. Trpnější. Pasivní. A jestliže tento požadavek není splněn, tak nemůže vést ke spojení, vědomému spojení s Bohem."
-    ]
-  },
-  {
-    "stem": "kotouc-D01-b",
-    "date": "< 1974",
-    "quotes": [
-      "My totiž tady v tomto životě cokoliv dobýváme, tak vždycky to dobýváme nějakou aktivitou, že totiž si to přejeme, jdeme za tím, dosahujeme to, případně nedosahujeme. A jakou to činnost? Jak ji máme klasifikovat takovou činnost? To je vlastně pokračování v tvůrčí činnosti Boží. My tady rozmnožujeme statky, které jsou nám od Boha dány, a dále prostě pro ně žijeme a dále jdeme do stvořeného, do zmnožného. Jde ta cesta z jednoduchosti do množství, do stále větší šíře, ano? To je, to je tenhleten, ta aktivita. Tímto způsobem když člověk přistupuje i k duchovním úkolům, to znamená k tomu aby se stal nezrozeným věčným to znamená nezrozeným věčným nestvořeným tak když tímto způsobem postupuje tak nikdy se jim nestane i když se sebe pilně snaží protože mu chybí tahleta zpětná vazba ta pasivita on nejenom ten aktivní způsob a ten vlastně jde úplně opačným směrem než ten než ta trpnost mystická která je zapotřebí stejnou měrou jako ta aktivita a kterou jedinou se můžete dostat nazpátek"
-    ]
-  },
-  {
-    "stem": "kotouc-77-brezen01-b",
-    "date": 1977,
-    "quotes": [
-      "Trpná stránka, to je stránka koncentrační. Koncentrace není činnost v tom běžném slova smyslu, k jaké já vás tady navádím v těchto algoritmech. To není ještě koncentrace vůbec. Todleto, co já- k čemu vás já tady navádím to je nanejvýš meditace, jo? A z ní pocházející čin, čin prostý anebo čin láskyplný, ano? Ale koncentrace mystická, ne soustředění pouhé, konaná za účelem spojovacím, mající tento cíl, to je vyhraněně trpná záležitost. To znamená, já musím se jenom tak dlouho koncentrovat, smím lépe řečeno se tak dlouho koncentrovat, dokud zůstávám trpný, ale ne civějící."
-    ]
-  },
-  {
-    "stem": "80-11A",
-    "date": 1980,
-    "quotes": [
-      "Musím se snažit o to, milovat z celého srdce a tak dále, jak je to tam všechno řečeno, ale my jsme si už řekli, že pochopit, kde jsou meze toho a kde a jak máme Bohu dát příležitost, aby on nám ukázal svou lásku, to že už není co se dá vyjádřit tím slovem, nýbrž to se dá vyjádřit jedině příkladem Ježíšovým. Celým jeho životem."
-    ]
-  },
-  {
-    "stem": "",
-    "date": 1983,
-    "quotes": [
-      "Už to narození Ježíše Krista vysvětluje značnou míru trpnosti, ale v které oblasti, to je mi jasné: Ne všude. Například jakápak je to trpnost, když utečou do Egypta? To je velká činnost, ale trpnost je v tom, že poslouchali. Vy musíte přesně vědět, že to vedle sebe má existovat a že to má své místo, to i ono."
-    ]
-  },
-  {
-    "stem": "85-25A-10.sub.js:34",
-    "date": 1985,
-    "quotes": [
-      "Láska má dvě stránky. Aktivní a trpnou ano? To jsem říkal všechny čtyři dni. Ne že je to jenom trpná stránka, ale že trpná stránka je dovršení oné aktivní stránky lásky. A kdyby to nebylo dovršení aktivní stránky, nebylo by co dovršovat a bylo by zbytečné ta negace nebo ta trpnost v lásce. By byla bezvýsledná, to by nikam nevedlo."
-    ]
-  },
-  {
-    "stem": "prevzate-kotouc-88-03",
-    "date": 1988,
-    "quotes": [
-      "Vznik i té nejmenší metafyzické zkušenosti je založen na trpnosti.",
-      "Trpnost musí být musí mít protiváhu, že ji dovedete uplatit, aktivně uplatnit. Ježíš Kristus to doved aktivně uplatnit, že byl poddán trpně třebas své rodině a tak dále. On, který měl tu obrovskou moudrou za sebou, že a v sobě, který... Takže on to potom už začal nám ukazovat jako míchanou trpnost s aktivitou. A to je správně pojatý život. To má být tak namícháno, že když je zapotřebí být aktivní, tak musím být aktivní až do dřeně kosti. Když je třeba být trpný, tak musím být trpný zase tam."
-    ]
-  },
-  {
-    "stem": "91-11B",
-    date: 1991,
-    "quotes": [
-      "Kdo neumí být trpný, tak není zasvěcencem, a kdo se bojí trpnosti, tak neví, že se bojí něčeho, čeho by se neměl bát. To mu umožňuje stát se zasvěcencem a být spojen vědomě s Bohem.",
-      "Ani Ježíš Kristus neudělal první zázrak, a kdyby byl neudělal první zázrak za pomoci Panny Marie, tak neudělal ani další zázraky. Začal to dělat jenom proto, že ho Panna Maria požádala. Kde pak jsme s tou méněcennosti ženy? Prosím vás, odpovězte mně na to. A protože tomu tak, že ona je cennější a v té trpnosti, která je jí vrozená, je veliká přednost a říkáme jí, té přednosti, metafyzická zkušenost, která se bez trpnosti, bez stavu trpnosti neobejde, tak my mužové musíme také tuto trpnost zvládnout. My ji musíme umět navodit, stejně jako ji umí snáze navodit žena."
-    ]
-  }
-]
+{
+  "trpnost": [
+    {
+      "stem": "kotouc-I01-d",
+      "date": "< 1974",
+      "quotes": [
+        "Ve skutečnosti každý člověk na všechno hledí aktivně, i na mystickou modlitbu, i na modlitbu, která má ho spojit s Bohem a dopadá to potom příšerně. Podívejte se na všechny žáky Weinfurtrovy, kdy oni říkali nějaká písmenová cvičení, já proti tomu nic nemám, ale mysleli si že tímhletím dobydou království Boží. Jo, království Boží násilí trpí, násilím je dobýváno, ale ne dobyto. Dobýváno. A oni u toho dobývání zůstali, museli zůstat protože nikdo jim neřekl, že modlitba se musí stávat postupně stále více trpnou. Trpnější. Pasivní. A jestliže tento požadavek není splněn, tak nemůže vést ke spojení, vědomému spojení s Bohem."
+      ]
+    },
+    {
+      "stem": "kotouc-D01-b",
+      "date": "< 1974",
+      "quotes": [
+        "My totiž tady v tomto životě cokoliv dobýváme, tak vždycky to dobýváme nějakou aktivitou, že totiž si to přejeme, jdeme za tím, dosahujeme to, případně nedosahujeme. A jakou to činnost? Jak ji máme klasifikovat takovou činnost? To je vlastně pokračování v tvůrčí činnosti Boží. My tady rozmnožujeme statky, které jsou nám od Boha dány, a dále prostě pro ně žijeme a dále jdeme do stvořeného, do zmnožného. Jde ta cesta z jednoduchosti do množství, do stále větší šíře, ano? To je, to je tenhleten, ta aktivita. Tímto způsobem když člověk přistupuje i k duchovním úkolům, to znamená k tomu aby se stal nezrozeným věčným to znamená nezrozeným věčným nestvořeným tak když tímto způsobem postupuje tak nikdy se jim nestane i když se sebe pilně snaží protože mu chybí tahleta zpětná vazba ta pasivita on nejenom ten aktivní způsob a ten vlastně jde úplně opačným směrem než ten než ta trpnost mystická která je zapotřebí stejnou měrou jako ta aktivita a kterou jedinou se můžete dostat nazpátek"
+      ]
+    },
+    {
+      "stem": "kotouc-77-brezen01-b",
+      "date": 1977,
+      "quotes": [
+        "Trpná stránka, to je stránka koncentrační. Koncentrace není činnost v tom běžném slova smyslu, k jaké já vás tady navádím v těchto algoritmech. To není ještě koncentrace vůbec. Todleto, co já- k čemu vás já tady navádím to je nanejvýš meditace, jo? A z ní pocházející čin, čin prostý anebo čin láskyplný, ano? Ale koncentrace mystická, ne soustředění pouhé, konaná za účelem spojovacím, mající tento cíl, to je vyhraněně trpná záležitost. To znamená, já musím se jenom tak dlouho koncentrovat, smím lépe řečeno se tak dlouho koncentrovat, dokud zůstávám trpný, ale ne civějící."
+      ]
+    },
+    {
+      "stem": "80-11A",
+      "date": 1980,
+      "quotes": [
+        "Musím se snažit o to, milovat z celého srdce a tak dále, jak je to tam všechno řečeno, ale my jsme si už řekli, že pochopit, kde jsou meze toho a kde a jak máme Bohu dát příležitost, aby on nám ukázal svou lásku, to že už není co se dá vyjádřit tím slovem, nýbrž to se dá vyjádřit jedině příkladem Ježíšovým. Celým jeho životem."
+      ]
+    },
+    {
+      "stem": "83-18-K",
+      "date": 1983,
+      "quotes": [
+        "Už to narození Ježíše Krista vysvětluje značnou míru trpnosti, ale v které oblasti, to je mi jasné: Ne všude. Například jakápak je to trpnost, když utečou do Egypta? To je velká činnost, ale trpnost je v tom, že poslouchali. Vy musíte přesně vědět, že to vedle sebe má existovat a že to má své místo, to i ono."
+      ]
+    },
+    {
+      "stem": "85-25A-10",
+      "date": 1985,
+      "quotes": [
+        "Láska má dvě stránky. Aktivní a trpnou ano? To jsem říkal všechny čtyři dni. Ne že je to jenom trpná stránka, ale že trpná stránka je dovršení oné aktivní stránky lásky. A kdyby to nebylo dovršení aktivní stránky, nebylo by co dovršovat a bylo by zbytečné ta negace nebo ta trpnost v lásce. By byla bezvýsledná, to by nikam nevedlo."
+      ]
+    },
+    {
+      "stem": "prevzate-kotouc-88-03",
+      "date": 1988,
+      "quotes": [
+        "Vznik i té nejmenší metafyzické zkušenosti je založen na trpnosti.",
+        "Trpnost musí být musí mít protiváhu, že ji dovedete uplatit, aktivně uplatnit. Ježíš Kristus to doved aktivně uplatnit, že byl poddán trpně třebas své rodině a tak dále. On, který měl tu obrovskou moudrou za sebou, že a v sobě, který... Takže on to potom už začal nám ukazovat jako míchanou trpnost s aktivitou. A to je správně pojatý život. To má být tak namícháno, že když je zapotřebí být aktivní, tak musím být aktivní až do dřeně kosti. Když je třeba být trpný, tak musím být trpný zase tam."
+      ]
+    },
+    {
+      "stem": "91-11B",
+      "date": 1991,
+      "quotes": [
+        "Kdo neumí být trpný, tak není zasvěcencem, a kdo se bojí trpnosti, tak neví, že se bojí něčeho, čeho by se neměl bát. To mu umožňuje stát se zasvěcencem a být spojen vědomě s Bohem.",
+        "Ani Ježíš Kristus neudělal první zázrak, a kdyby byl neudělal první zázrak za pomoci Panny Marie, tak neudělal ani další zázraky. Začal to dělat jenom proto, že ho Panna Maria požádala. Kde pak jsme s tou méněcennosti ženy? Prosím vás, odpovězte mně na to. A protože tomu tak, že ona je cennější a v té trpnosti, která je jí vrozená, je veliká přednost a říkáme jí, té přednosti, metafyzická zkušenost, která se bez trpnosti, bez stavu trpnosti neobejde, tak my mužové musíme také tuto trpnost zvládnout. My ji musíme umět navodit, stejně jako ji umí snáze navodit žena."
+      ]
+    }
+  ],
+  "modlitba": [
+    {
+      "stem": "73-01",
+      "date": 1973,
+      "quotes": [
+        ",,Posvěť se jméno tvé, přijď království tvé``. To je to přání, pro které my tuto modlitbu vůbec děláme, a jestliže toto přání není naším přáním, nemá smysl je vyslovovat a nemá taky smysl od této modlitby očekávat spojovací účinek s Věčností. Nedostaví se.",
+        "Jestliže jenom jedna jediná naše činnost celého toho dne obsahovala v sobě větší naléhavost než tahleta modlitba, pak vůbec nemá cenu tu modlitbu dělat, protože ona nepředežene, předběhne náš běžný život a tedy nám nebude světlem do dalšího života",
+        "nesmí se to samo sebou přeříkávat bezmyšlenkovitě jedna myšlenka na druhou nýbrž musíme hledět zažít v sobě tu čest která se nám zde prokazuje, že naším otcem je bytost nesmrtelná nekonečná nejvýš laskavá veškerým poznáním a tak dále"
+      ]
+    },
+    {
+      "stem": "76-03B-Kaly-6",
+      "date": 1976,
+      "quotes": [
+        "jakéhokoliv nástroje se chopíte, tak se chápáte jenom nástroje. Toto bychom měli si být pořád vědomi, protože jinak zaměňujeme, což se často stávalo i dobrým žákům této cesty, zaměňujeme tento nástroj za cíl. Takže když nám to třeba samo v nás opakuje jméno Boží, tak si myslíme, kdo ví, co se s námi děje. To je jenom tragická záměna nástroje za cíl. Že my jsme spoje- v sobě vypěstovali takový automatismus, že tos- že samo pořád se to, jak říkají někteří z nich, se to v nás modlí. To není správné. Já musím záměrně do tohoto způsobu modlitby vstupovat a záměrně z ní vystupovat, protože ona je jenom prostředkem. Cílem je vědomé spojení s Bohem. Vědomé v tom smyslu zpočátku, aspoň v tom smyslu, že mi poskytuje jistotu, že jsem nesmrtelná bytost ve své vnitřní podstatě. A tato jistota se může projevovat i přídavnými stavy, ale ty nejsou rozhodující při tom. Rozhodující je tato jistota, na které potom buduju nebo postavím celý svůj život. Byl bych nerad, aby zdánlivě tento výrok stál proti Ježíšovu výroku: modlete se neustále. To neznamená, podle mého názoru, že by byl Ježíš jakoukoliv formu modlitby povýšil na neustálou životní činnost, nýbrž to je něco zcela jiného. Podívejte se, ve skutečnosti Ježíš chtěl, aby každý okamžik našeho života byl nám tak posvátný, aby se rovnal modlitbě. Ne se podobal, rovnal. Aby totiž vás nic v životě neodvádělo od něho, od Boha, nýbrž aby nás všecko k Bohu přivádělo. My totiž modlitbu děláme záměrně k tomu, abychom, jak se říká lidově, rozmlouvali s Bohem nebo abychom se k Bohu přiblížili. Kdežto ostatní děláme proto, abychom provedli to nebo ono, co nemá s tímto duchovním cílem vůbec nic společného. A toto je základní rozpor, který Ježíš Kristus vyjádřil: "sedění na dvou židlích", i když o tom mluvil v jiném smyslu.",
+        "člověk pořád pendluje mezi modlitbou a mezi činností. Jedno staví proti druhému, důležité je, aby buď v té modlitbě anebo v té činnosti prorazil do věčnosti, obojí může."
+      ]
+    },
+    {
+      "stem": "prevzate-kotouc-78-03A",
+      "date": 1978,
+      "quotes": [
+      ]
+    }
+  ]
+}
