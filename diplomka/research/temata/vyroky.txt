@@ -81,6 +81,7 @@
       "stem": "prevzate-kotouc-78-03A",
       "date": 1978,
       "quotes": [
+        "Výtěžky modlitby se mají uplatňovat, praktikovat v zevním životě a zevní život se má praktikovat v modlitbě."
       ]
     }
   ]
