@@ -83,6 +83,21 @@
       "quotes": [
         "Výtěžky modlitby se mají uplatňovat, praktikovat v zevním životě a zevní život se má praktikovat v modlitbě."
       ]
+    },
+    {
+      "stem": "80-18",
+      "date": 1980,
+      "quotes": [
+        "[Ježíš] spojoval modlitbu se životem. Jeho život byl modlitba, a jestliže život náš není modlitbou, tak ještě jsme se nezačali modlit."
+      ]
+    },
+    {
+      "stem": "82-18",
+      "date": 1982,
+      "quotes": [
+        "Tak já myslím, že byste mohli rozumět, jak má vypadat prosebná modlitba. Když například se někdo modlí Otčenáš, a to je vzor prosebné modlitby, všimněte si, co se tam od člověka chce za oběť. Za oběť vůle především: "staň se vůle tvá. Buď vůle tvá, jako v nebi, tak i na zemi". To je tam doslova řečeno. "Přijď království tvé". Dyť to je něco, co si člověk nepřeje přeci přirozenou cestou. On si přeje: "dej nám chléb vezdejší", to možná ano. A aby nepřišel k úrazu, taky. "Odpusť nám, jako my odpouštíme", to ano. "Neuveď nás v pokušení", to ano. Ale musí předcházet, musí být vůdčí myšlenkou při tom tohleto vzdání se do určité míry své vlastní vůle. Jiná manipulace s vůlí, jak jsem to nazval obecně. Tak takhle vypadá prosebná modlitba.",
+        "Myslete si, že to pán Bůh vyslyšel, prosím. Ale jak vám říkám, kdybyste byli nevtělili do té modlitby tomu odpovídající, té prosbě opovídající oběť -- odosobnění, tak ta prosba byla zbytečná mírně řečeno. Proto od začátku veškerého spisování kladu tak veliký důraz na rovnováhu mezi modlitbou a mezi životem. A měl bych říkat mezi mírou odosobnění a mezi modlitbou, protože když se vůbec modlíme, tak chceme vyjít ze sebe, prosím vás, a vejít někam jinam, než kde jsem já. Chcem se zbavit sama sebe."
+      ]
     }
   ]
 }
