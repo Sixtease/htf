@@ -901,7 +901,39 @@ uchýlím se k~automatickým metodám.
 
 \subsection{Automatická extrakce klíčových slov}
 
+Extrakce klíčových slov, anglicky \textit{keyword extraction} je samostatnou
+disciplínou počítačového zpracování přirozeného jazyka. Google Scholar na dotaz
+\texttt{Keyword Extraction} hlásí kolem milionu nalezených publikací.
 
+Naivní přístup by se zakládal na četnosti slov: Slovo, které se často opakuje
+musí napovídat o tématu, které se v~dané pasáži diskutuje. Jak ale poznat, které
+slovo se opakuje často z~toho důvodu, že to plyne z~charakteru jazyka, a které
+proto, že je skutečně součástí tématu hovoru? Porovnali bychom četnost daného
+slova ve zkoumané pasáži s~jeho četností v~celém korpusu.
+
+V~tomto přístupu nastává problém s~flektivním charakterem češtiny: slova se
+ohýbají, a podstatná jména, která nejvíce vystihují témata, se ohýbají zejména,
+čímž klesá četnost jejich jednotlivých tvarů. Navíc se nám tak tvoří dupliciní
+témata jako \textit{Ježíš}, \textit{Ježíše} atd. Naštěstí existuje volně
+dostupný spolehlivý nástroj pro morfologickou analýzu češtiny, jejíž součástí je
+i tzv. lemmatizace, čili určení základního tvaru slova. Použil jsem nástroj
+MorphoDiTa dostupný na adrese
+\url{http://lindat.mff.cuni.cz/services/morphodita/}\cite{morphodita}.
+
+Přesně jsem při prováděná naivního řešení postupoval takto:
+Pro všechny přepisy jsem pořídil základní tvary.
+Spočetl jsem všechny základní tvary a seřadil je podle četnosti.
+Četnosti jsem vydělil celkovým počtem slov v~přepisech. Tím jsem získal
+frekvenční slovník celého Makoňova mluveného korpusu.
+Nahrávky jsem pak rozdělil podle ročníku jejich pořízení; ty s~neznámým ročníkem
+jsem uvrhl do jedné skupiny.
+Pro každou takto vytvořenou skupinu přepisů jsem vytvořil frekvenční slovník
+stejným způsobem.
+Pro každé slovo vyskutující se v~každé skupině jsem spočetl poměr jeho četnosti
+ve své kategorii a jeho četnosti v~celém korpusu.
+Tak jsem získal pro každý ročník seznam slov ohodnocených jejich relativní
+četností oproti celému korpusu.
+Z~každé skupiny jsem pak vybral deset nejčastějších slov.
 
 %utrpení:
 %rovnováha mezi vnitřním a vnějším životem;

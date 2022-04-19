@@ -10,15 +10,33 @@ use utf8;
 use strict;
 use warnings;
 use 5.010;
+use File::Basename qw(dirname basename);
 
-my $ref_fn = shift;
+my $MIN_FREQ = -15.5;
+
+my $outdir = shift;
 my %ref;
 
 while (<>) {
+  chomp;
   my ($logfq, $lemma) = split /\t/;
-  $ref{$lemma} = $logfq;
+  $ref{$lemma} = $logfq if $logfq > $MIN_FREQ;
   last if eof;
 }
 
+my %freqd;
+
 while (<>) {
+  chomp;
+  my ($logfq, $lemma) = split /\t/;
+  $freqd{$lemma} = $logfq - $ref{$lemma} if exists $ref{$lemma};
+  flush() if eof;
+}
+
+sub flush {
+  my $stem = basename(dirname($ARGV));
+  warn("$stem\n");
+  open my $outfh, '>', "$outdir/$stem";
+  say {$outfh} "$_\t$freqd{$_}" for sort { $freqd{$b} <=> $freqd{$a} } keys %freqd;
+  %freqd = ();
 }
