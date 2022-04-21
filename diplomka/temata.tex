@@ -920,9 +920,11 @@ i tzv. lemmatizace, čili určení základního tvaru slova. Použil jsem nástr
 MorphoDiTa dostupný na adrese
 \url{http://lindat.mff.cuni.cz/services/morphodita/}\cite{morphodita}.
 
-Přesně jsem při prováděná naivního řešení postupoval takto:
+Přesně jsem při provádění naivního řešení postupoval takto:
 Pro všechny přepisy jsem pořídil základní tvary.
 Spočetl jsem všechny základní tvary a seřadil je podle četnosti.
+Ze seznamu jsem odfiltroval \textit{,,stop-slova``}, tedy častá slova v~češtině
+nenesoucí vlastní význam.
 Četnosti jsem vydělil celkovým počtem slov v~přepisech. Tím jsem získal
 frekvenční slovník celého Makoňova mluveného korpusu.
 Nahrávky jsem pak rozdělil podle ročníku jejich pořízení; ty s~neznámým ročníkem
@@ -934,6 +936,39 @@ ve své kategorii a jeho četnosti v~celém korpusu.
 Tak jsem získal pro každý ročník seznam slov ohodnocených jejich relativní
 četností oproti celému korpusu.
 Z~každé skupiny jsem pak vybral deset nejčastějších slov.
+
+Obrázek~\ref{fig:topic-by-year-relfreq} ukazuje výsledky pro ročníky 1973 až 1992.
+Hodnoty v~grafu odpovídají tomu, kolikrát častější je dané slovo v~příslušném
+ročníku než v~celém korpusu (včetně nahrávek neopatřených ročníkem).
+
+\begin{figure}[htpb]
+\includegraphics[scale=0.32, angle=90]{rc/topics-by-year-relfreq.pdf}
+\caption{Slova s~nejvyšší relativní četností podle ročníku}
+\label{fig:topic-by-year-relfreq}
+\end{figure}
+
+Naivní řešení je třeba konfrontovat s~řešením založeným za zavedených postupech.
+V~oblasti extrakce klíčových slov z~textu je takovým zavedeným postupem
+algoritmus \textit{TF-IDF}\cite{Beel2016-11Resea-32348}, anglická zkratka pro
+,,term frequency -- inverse document frequency``, čili četnost pojmu -- inverzní
+četnost dokumentů. Tento algoritmus upřednostňuje slova, která se vyskytují
+často (term frequency) a upozaďuje slova, která se vyskytují často ve všech
+dokumentech (inverse document frequency).
+
+Adaptoval a použil jsem systém používající tf-idf jako váhu slov a
+Kullbackovu-Leiblerovu divergenci jako míru pro porovnávání dokumentů.
+Natrénoval jsem ho opět na celém korpusu Makoňových nahrávek a vyhodnotil pro
+ročníky 1973 až 1992, opět po odfiltrování stop-slov a po lemmatizaci. Výsledek
+je vidět na obrázku~\ref{fig:topic-by-year-kld}.
+
+\begin{figure}[htpb]
+\includegraphics[scale=0.32, angle=90]{rc/topics-by-year-kld.pdf}
+\caption{Slova s~nejvyšším skóre TF-IDF oproti Makoňovi podle ročníku}
+\label{fig:topic-by-year-kld}
+\end{figure}
+
+
+
 
 %utrpení:
 %rovnováha mezi vnitřním a vnějším životem;
