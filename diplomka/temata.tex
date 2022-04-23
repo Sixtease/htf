@@ -1,4 +1,5 @@
 \chapter{Vybraná témata v~pojetí Karla Makoně}
+\label{kap:temata}
 
 Při opakovaném poslechu Makoňových hovorů si všímám, že určitá sdělení se
 neustále vracejí a ačkoliv je pokaždé trochu jiné, ve stěžejních bodech zůstává
@@ -967,8 +968,89 @@ je vidět na obrázku~\ref{fig:topic-by-year-kld}.
 \label{fig:topic-by-year-kld}
 \end{figure}
 
+Je pozoruhodné, že oba systémy nalezly zcela různá klíčová slova, přičemž obě
+sady zcela zjevně odpovídají obashu Makoňových hovorů.
 
+Oba výše představené systémy pracují na zálkladě porovnávání jednotlivých částí
+Makoňova mluveného korpusu vůči celku. Odpovídají tedy na otázku, jaké téma se
+diskutuje zde více než v~jiných pasážích. My se ale tážeme, o čem Makoň hovoří
+vůbec. Tedy nás zajímají i témata, která se diskutují ve všech pasážích. Na to
+musíme porovnat Makoňovy hovory s~jinými českými texty. Podle toho, jakou
+referenční sadu textů bychom zvolili, bychom dostali odpovědi na různé otázky.
+Pokud bychom například vzali za referenční sadu přepisy přednášek jiných českých
+mystiků, dozvěděli bychom se, jaká slova používá Makoň víc než oni. Pokud bychom
+si vzali jako referenční sadu současné české noviny, dozvěděli bychom se asi
+hlavně, jak se Makoňův slovník liší od moderního českého žurnalistického
+slovníku.
 
+Vzhledem k~zaměření práce se spokojíme s~hotovým systémem
+KER\footnote{http://lindat.mff.cuni.cz/services/ker/}, který také používá
+algoritmus TF-IDF a jako referenční sadu používá texty z~české Wikipedie.
+Pro každou jednotlivou nahrávku jsem nechal systém vyprodukovat klíčová slova --
+byla zpravidla dvě -- a ve výsledcích jsem spočetl výskyty jednotlivých
+nalezených slov.
+Tabulka~\ref{tab:ker} ukazuje všechna nalezená slova, která se vyskytovala více
+než jednou.
+
+\begin{table}[htpb]
+\begin{center}
+\begin{tabular}{|r l|r l|r l|r l|}
+\hline
+\# & slovo & \# & slovo & \# & slovo & \# & slovo \\
+\hline
+575 & bůh	 & 8 & ráj	 & 4 & ctnost	 & 2 & syn	 \\
+209 & člověk	 & 8 & otčenáš	 & 4 & činnost	 & 2 & svatební	 \\
+106 & boží	 & 8 & babička	 & 4 & čaroděj	 & 2 & supramentální	 \\
+96 & vůle	 & 7 & svatý	 & 4 & břemeno	 & 2 & stylizace	 \\
+69 & modlitba	 & 7 & řeč	 & 3 & zlo	 & 2 & stupeň	 \\
+42 & věčnost	 & 7 & prostředek	 & 3 & zážitek	 & 2 & starostlivost	 \\
+35 & víra	 & 7 & pravda	 & 3 & zaujatost	 & 2 & sobectví	 \\
+31 & vědomí	 & 7 & pokušení	 & 3 & zákon	 & 2 & smysl	 \\
+30 & láska	 & 7 & karma	 & 3 & zainteresovanost & 2 & slepice	 \\
+29 & úroveň	 & 7 & cit	 & 3 & vtělení	 & 2 & sebezlepšování	 \\
+29 & správný	 & 6 & strach	 & 3 & vnitřní	 & 2 & sebepoznání	 \\
+28 & poznání	 & 6 & smrtelný	 & 3 & trpný	 & 2 & samovolnost	 \\
+24 & ježíš	 & 6 & podobenství	 & 3 & touha	 & 2 & samadhi	 \\
+24 & duše	 & 6 & nitro	 & 3 & svět	 & 2 & ruysbroek	 \\
+23 & bližní	 & 6 & formulace	 & 3 & spojovací	 & 2 & rozhodnutí	 \\
+22 & život	 & 6 & dítě	 & 3 & spása	 & 2 & řešení	 \\
+20 & představa	 & 6 & astrální	 & 3 & spánek	 & 2 & ramakrišna	 \\
+17 & hřích	 & 5 & zákonitost	 & 3 & satan	 & 2 & prosebný	 \\
+17 & duch	 & 5 & smrt	 & 3 & říma	 & 2 & prana	 \\
+16 & učedník	 & 5 & pokora	 & 3 & relativní	 & 2 & poslušnost	 \\
+16 & tělo	 & 5 & oddanost	 & 3 & radost	 & 2 & paměť	 \\
+16 & stav	 & 5 & očistec	 & 3 & princezna	 & 2 & omyl	 \\
+16 & pohádka	 & 5 & obraz	 & 3 & příjemný	 & 2 & očistný	 \\
+16 & krista	 & 5 & duchovní	 & 3 & potopa	 & 2 & nebe	 \\
+15 & stvořený	 & 5 & dobro	 & 3 & poklad	 & 2 & národ	 \\
+15 & síla	 & 4 & zvíře	 & 3 & osvícení	 & 2 & muladharu	 \\
+14 & rozum	 & 4 & zevní	 & 3 & okamžik	 & 2 & mrak	 \\
+13 & východisko	 & 4 & vlastnost	 & 3 & noha	 & 2 & moudrost	 \\
+13 & cesta	 & 4 & vitalita	 & 3 & milosrdenství	 & 2 & krok	 \\
+12 & mysl	 & 4 & úkol	 & 3 & koncentrace	 & 2 & kristu	 \\
+12 & kristus	 & 4 & událost	 & 3 & kelt	 & 2 & jho	 \\
+11 & věc	 & 4 & tělesnost	 & 3 & jordánu	 & 2 & ííééóóúúáá	 \\
+11 & milost	 & 4 & setkání	 & 3 & idea	 & 2 & hospodin	 \\
+10 & zázrak	 & 4 & převtělování	 & 3 & eliáš	 & 2 & hospodář	 \\
+10 & trpnost	 & 4 & moment	 & 3 & balík	 & 2 & drak	 \\
+10 & individualita	 & 4 & maminka	 & 2 & zoufalství	 & 2 & dospělost	 \\
+10 & hřivna	 & 4 & maličkost	 & 2 & zaujetí	 & 2 & chyba	 \\
+10 & automatismus	 & 4 & lidský	 & 2 & vnuknutí	 & 2 & chrám	 \\
+9 & utrpení	 & 4 & krize	 & 2 & vedení	 & 2 & bolest	 \\
+9 & sebezápor	 & 4 & koncentrák	 & 2 & věda	 & 2 & anděl	 \\
+8 & zjevení	 & 4 & klepání	 & 2 & ticho	 & 2 & analýza	 \\
+8 & věčný	 & 4 & dojem	 & 2 & syntéza	 &   &                  \\
+\hline
+\end{tabular}
+\caption{klíčová slova nalezená systémem KER}\label{tab:ker}
+\end{center}
+\end{table}
+
+Je vidět, že hledáním klíčových slov můžeme dospět k~seznamu kandidátů na témata
+v~množství více než hojném. Bohužel se zdá, že nelze než každého kandidáta
+manuálně prověřit a zjistit, zda skutečně formuje téma, ke kterému se Makoň
+soustavně vyjadřuje a u kterého by stálo za to posoudit jeho důležitost pro
+Makoňovu nauku.
 
 %utrpení:
 %rovnováha mezi vnitřním a vnějším životem;
