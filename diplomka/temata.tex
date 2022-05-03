@@ -984,8 +984,9 @@ stejným způsobem.
 \item{%
 Pro každé slovo vyskutující se v~každé skupině jsem spočetl poměr jeho frekvence
 ve své kategorii a jeho frekvence v~celém korpusu.
-}
-\item{%
+%}
+%\item{%
+
 Tak jsem získal pro každý ročník seznam slov ohodnocených jejich relativní
 četností oproti celému korpusu.
 }
@@ -996,7 +997,9 @@ Z~každé skupiny jsem pak vybral deset nejčastějších slov.
 
 Obrázek~\ref{fig:topic-by-year-relfreq} ukazuje výsledky pro ročníky 1973 až 1992.
 Hodnoty v~grafu odpovídají tomu, kolikrát častější je dané slovo v~příslušném
-ročníku než v~celém korpusu (včetně nahrávek neopatřených ročníkem).
+ročníku než v~celém korpusu (včetně nahrávek neopatřených ročníkem). Patvary
+pocházejí z~chyb v~automatickém přepisu, jako např. hned první slovo ,,hrý``, popř.
+z~doslovného přepisu artikulačních defektů, jako např. ,,tže``.
 
 \begin{figure}[htpb]
 \includegraphics[scale=0.32, angle=90]{rc/topics-by-year-relfreq.pdf}
@@ -1014,23 +1017,24 @@ algoritmus \textit{TF-IDF}\cite{Beel2016-11Resea-32348}, anglická zkratka pro
 často (term frequency) a upozaďuje slova, která se vyskytují často ve všech
 dokumentech (inverse document frequency).
 
-Adaptoval a použil jsem systém používající tf-idf jako váhu slov a
-Kullbackovu-Leiblerovu divergenci jako míru pro porovnávání dokumentů.
+Adaptoval a použil jsem systém používající TF-IDF jako váhu slov a
+Kull\-back\-ovu-Leib\-ler\-ovu divergenci
+jako míru pro porovnávání dokumentů\footnote{\url{%
+scikit-learn.org/stable/auto\_examples/applications/plot\_topics\_extraction\_with\_nmf\_lda.html}}.
 Natrénoval jsem ho opět na celém korpusu Makoňových nahrávek a vyhodnotil pro
 ročníky 1973 až 1992, opět po odfiltrování stop-slov a po lemmatizaci. Výsledek
 je vidět na obrázku~\ref{fig:topic-by-year-kld}. Ačkoliv obrázek má týž formát
 jako předchozí, reprezentuje něco jiného. Jednotivé podgrafy odpovídají
 automaticky detekovaným tématům, a pro každé takto detekované téma se zobrazují
 nejtypičtější slova.
+Je pozoruhodné, že oba systémy nalezly zcela různá klíčová slova, přičemž obě
+sady zcela zjevně odpovídají obashu Makoňových hovorů.
 
 \begin{figure}[htpb]
 \includegraphics[scale=0.32, angle=90]{rc/topics-by-year-kld.pdf}
 \caption{Detekovaná témata v~rámci přepisů Makoňových nahrávek.}
 \label{fig:topic-by-year-kld}
 \end{figure}
-
-Je pozoruhodné, že oba systémy nalezly zcela různá klíčová slova, přičemž obě
-sady zcela zjevně odpovídají obashu Makoňových hovorů.
 
 Oba výše představené systémy pracují na zálkladě porovnávání jednotlivých částí
 Makoňova mluveného korpusu vůči celku. Odpovídají tedy na otázku, jaké téma se
@@ -1045,7 +1049,7 @@ hlavně, jak se Makoňův slovník liší od moderního českého žurnalistick�
 slovníku.
 
 Vzhledem k~zaměření práce se spokojíme s~hotovým systémem
-KER\footnote{http://lindat.mff.cuni.cz/services/ker/}, který také používá
+KER\footnote{\url{lindat.mff.cuni.cz/services/ker/}}, který také používá
 algoritmus TF-IDF a jako referenční sadu používá texty z~české Wikipedie.
 Pro každou jednotlivou nahrávku jsem nechal systém vyprodukovat klíčová slova --
 byla zpravidla dvě -- a ve výsledcích jsem spočetl výskyty jednotlivých
@@ -1107,8 +1111,90 @@ než jednou.
 \end{center}
 \end{table}
 
+\subsection{Shrnutí}
+
+Je na první pohled patrné, že v~seznamu slov, který jsme získali aplikací tří
+nastíněných metod, se nalézají taková, 1) která skutečně souvisejí s~diskutovaným
+tématem, 2) která charakterizují celou Makoňovu nauku, i 3) nerelevantní šum.
+V~tabulce~\ref{tab:topichits} uvádím příklady jednotlivých kategorií nalezených
+tou kterou metodou.
+
+\begin{table}[htpb]
+\begin{center}
+\begin{tabular}{|l|l|l|l|}
+\hline
+	& relativní frekvence & TF-IDF	& KER \\
+\hline
+téma pasáže 	& Böhme 	& vůle	& vůle \\
+	& Herakleitos	& modlitba	& modlitba \\
+	& muladhara	& láska	& láska \\
+	& Tibet	& otčenáš	& otčenáš \\
+	& Havel	& tělo	& tělo \\
+	& Babylonie	& bližní	& bližní \\
+	& rádžajóga	& mysl	& mysl \\
+	& artemis	& automatismus	& automatismus \\
+	& Ezau	& víra	& víra \\
+	& opásání	& pohádka	& pohádka \\
+	& Benátky	& rozum	& rozum \\
+	& celnický	& zvíře	& zvíře \\
+	& manipura	& koncentrace	& duch \\
+	& embryologie	& touha	& východisko \\
+	& I-E-O-U-A	& cit	& milost \\
+	& Ghos	& srdce	& zázrak \\
+	& Gándhí	& spása	& trpnost \\
+	& Chaldejec	& zákon	& hřivna \\
+	& Chelčický	& moudrost	& utrpení \\
+	& antropologie	& tělesnost	& karma \\
+	& 	& zjevení	& zákonitost \\
+	& 	& 	& očistec \\
+	& 	& 	& převtělování \\
+	& 	& 	& krize \\
+	& 	& 	& koncentrák \\
+	& 	& 	& klepání \\
+\hline
+  téma nauky	& 	& pán	& Bůh \\
+  	& 	& stav	& stav \\
+  	& 	& úroveň	& úroveň \\
+  	& 	& vědomí	& vědomí \\
+  	& 	& poznání	& poznání \\
+  	& 	& věčnost	& věčnost \\
+  	& 	& Ježíš	& Ježíš \\
+  	& 	& nitro	& Kristus \\
+  	& 	& prostředek	& člověk \\
+  	& 	& spojení	& život \\
+  	& 	& 	& cesta \\
+\hline
+  šum 	& hrý	& sem	&  \\
+   	& váž	& potřebovat	& \\
+   	& preface	& vlastní	& \\
+   	& Tže	& no	& \\
+   	& mohlmoci	& vysoký	& \\
+   	& káves	& jo	& \\
+   	& okonalý	& 	& \\
+   	& kdělat	& 	& \\
+\hline
+\end{tabular}
+\caption{Druhy výsledků jednotlivými metodami}
+\label{tab:topichits}
+\end{center}
+\end{table}
+
+Není překvapující, že metoda relativní frekvence nepřinesla žádný termín
+charakterizující celou nauku -- jak by termín typický pro celek mohl v~jednom
+ročníku výrazně vyčnívat frekvencí? Není ani překvapující, že oba systémy
+využívající algoritmu TF-IDF přišly namnoze s~týmiž hesly. Taktéž ani to, že šum
+pocházející z~metody, která nebere v~úvahu absolutní četnosti, obsahuje
+překlepy. Zajímavé však rozhodně je, že systém založený na relativní frekvenci,
+čili naivní řešení, jako jediný dává na výstup pojmenované entity, což rozhodně
+jsou validní témata.
+
+Také je trochu k~pozastavení, proč systém detekující
+klíčová slova na základě porovnávání s~texty z~Wikipedie nevyprodukoval ani
+jedno očividně špatné klíčové slovo. Může to být tím, že systém je důkladně
+odladěn.
+
 Je vidět, že hledáním klíčových slov můžeme dospět k~seznamu kandidátů na témata
-v~množství více než hojném. Bohužel se zdá, že nelze než každého kandidáta
+v~množství více než hojném. Mnoho kandidátů je však nutno
 manuálně prověřit a zjistit, zda skutečně formuje téma, ke kterému se Makoň
 soustavně vyjadřuje a u kterého by stálo za to posoudit jeho důležitost pro
 Makoňovu nauku.
