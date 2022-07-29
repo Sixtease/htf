@@ -157,9 +157,7 @@ mnohdy správně určený kmen a pro účely vyhledávání je tedy můžeme pov
 správně přepsané. Krom toho využívám manuálně vytvořený tematický index
 pokrývající v~dubnu 2022 všechny písmenem označené kotouče a kazety označené
 ročníkem do osmdesátého pátého, celkem 312 z~1138. V~tematickém indexu je jeden
-záznam ke každému úseku s~konzistentním tématem\footnote{\url{%
-github.com/Sixtease/CorpusMakoni/blob/master/bookmark.txt
-}}.
+záznam ke každému úseku s~konzistentním tématem\footnote{\href{https://github.com/Sixtease/CorpusMakoni/blob/master/bookmark.txt}{github.com/Sixtease/CorpusMakoni/blob/master/bookmark.txt}}.
 
 Postupuji v~následujících krocích:
 \begin{itemize}
@@ -1044,7 +1042,7 @@ morfologická analýza přiřadila 1) instrumentál singuláru od substantiva
 Zde se jedná o tzv. \textit{tagging}, což je proces, při kterém se na základě
 kontextu pro slovo vybere nejpravděpodobnější varianta.}. Použil jsem nástroj
 MorphoDiTa\cite{morphodita} dostupný na adrese
-\url{lindat.mff.cuni.cz/services/morphodita}.
+\href{http://lindat.mff.cuni.cz/services/morphodita/}{lindat.mff.cuni.cz/services/morphodita/}.
 
 Přesně jsem při provádění naivního řešení postupoval takto:
 \begin{itemize}
@@ -1108,8 +1106,8 @@ dokumentech (inverse document frequency).
 
 Adaptoval a použil jsem systém používající TF-IDF jako váhu slov a
 Kull\-back\-ovu-Leib\-ler\-ovu divergenci
-jako míru pro porovnávání dokumentů\footnote{\url{%
-scikit-learn.org/stable/auto\_examples/applications/plot\_topics\_extraction\_with\_nmf\_lda.html}}.
+jako míru pro porovnávání
+dokumentů\footnote{\href{https://scikit-learn.org/stable/auto\_examples/applications/plot\_topics\_extraction\_with\_nmf\_lda.html}{scikit-learn.org/stable/auto\_examples/applications/plot\_topics\_extraction\_with\_nmf\_lda.html}}.
 Natrénoval jsem ho opět na celém korpusu Makoňových nahrávek a vyhodnotil pro
 ročníky 1973 až 1992, opět po odfiltrování stop-slov a po lemmatizaci. Výsledek
 je vidět na obrázku~\ref{fig:topic-by-year-kld}. Ačkoliv obrázek má týž formát
@@ -1138,7 +1136,7 @@ hlavně, jak se Makoňův slovník liší od moderního českého žurnalistick�
 slovníku.
 
 Vzhledem k~zaměření práce se spokojíme s~hotovým systémem
-KER\footnote{\url{lindat.mff.cuni.cz/services/ker/}}, který také používá
+KER\footnote{\href{http://lindat.mff.cuni.cz/services/ker/}{lindat.mff.cuni.cz/services/ker/}}, který také používá
 algoritmus TF-IDF a jako referenční sadu používá texty z~české Wikipedie.
 Pro každou jednotlivou nahrávku jsem nechal systém vyprodukovat klíčová slova --
 byla zpravidla dvě -- a ve výsledcích jsem spočetl výskyty jednotlivých
