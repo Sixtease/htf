@@ -67,6 +67,7 @@
 \usepackage{refcount}
 \usepackage{tabularx}
 \usepackage{caption}
+\usepackage{pdfpages}       % vložení PDF souboru
 
 %\usepackage{etoolbox}
 %\makeatletter
@@ -187,10 +188,16 @@
 %%% interaktivní grafy apod.). Elektronické přílohy se nahrávají do SISu a lze
 %%% je také do práce vložit na CD/DVD. Povolené formáty souborů specifikuje
 %%% opatření rektora č. 72/2017.
-%\appendix
-%\chapter{Přílohy}
+\appendix
+\chapter{Přílohy}
 
-%\section{První příloha}
+\section{Almanach Střední ekonomické školy v~Plzni}
+\label{apx:almanach}
+
+Tento almanach Střední ekonomické školy Klementa Gottwalda v~Plzni dokládá
+působení Karla Makoně na této škole coby učitele.
+
+\includepdf[pages=-]{rc/almanach.pdf}
 
 \openright
 \end{document}
