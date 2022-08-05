@@ -89,6 +89,6 @@
 \newcommand{\pulrad}[1]{\raisebox{1.5ex}[0pt]{#1}}
 \newcommand{\mc}[1]{\multicolumn{1}{c}{#1}}
 
-\newcommand{\ridv}[2]{\texttt{#1}, od pozice #2}
-\newcommand{\rid}[2]{\texttt{#1} #2}
-\newcommand{\rref}[2]{\footnote{\rid{#1}{#2}}}
+\newcommand{\ridv}[3]{\href{http://radio.makon.cz/zaznam/#1\#ts=#3}{\texttt{#1}, od pozice #2}}
+\newcommand{\rid}[3]{\href{http://radio.makon.cz/zaznam/#1\#ts=#3}{\texttt{#1} #2}}
+\newcommand{\rref}[3]{\footnote{\rid{#1}{#2}{#3}}}
